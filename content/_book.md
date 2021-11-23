@@ -10,7 +10,60 @@ meta:
   modified: '2021-11-03T19:14:21.917Z'
   languageCode: cs
 chapters: []
-tocBase: []
+tocBase:
+  - id: section-1
+    children:
+      - link: sedmikosteli_007.html
+        title: I
+      - link: sedmikosteli_008.html
+        title: II
+      - link: sedmikosteli_009.html
+        title: III
+      - link: sedmikosteli_010.html
+        title: IV
+      - link: sedmikosteli_011.html
+        title: V
+      - link: sedmikosteli_012.html
+        title: VI
+      - link: sedmikosteli_013.html
+        title: VII
+      - link: sedmikosteli_014.html
+        title: VIII
+      - link: sedmikosteli_015.html
+        title: IX
+      - link: sedmikosteli_016.html
+        title: X
+      - link: sedmikosteli_017.html
+        title: XI
+      - link: sedmikosteli_018.html
+        title: XII
+      - link: sedmikosteli_019.html
+        title: XIII
+      - link: sedmikosteli_020.html
+        title: XIV
+      - link: sedmikosteli_021.html
+        title: XV
+      - link: sedmikosteli_022.html
+        title: XVI
+      - link: sedmikosteli_023.html
+        title: XVII
+      - link: sedmikosteli_024.html
+        title: XVIII
+      - link: sedmikosteli_025.html
+        title: XIX
+      - link: sedmikosteli_026.html
+        title: XX
+      - link: sedmikosteli_027.html
+        title: XXI
+      - link: sedmikosteli_028.html
+        title: XXII
+      - link: sedmikosteli_029.html
+        title: XXIII
+      - link: sedmikosteli_030.html
+        title: XXIV
+      - link: sedmikosteli_031.html
+        title: EPILOG
+    numberedChildren: false
 static:
   - style
   - scripts
