@@ -9,6 +9,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-11-03T19:14:21.917Z'
   languageCode: cs
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - sedmikosteli_001.html
   - sedmikosteli_002.html
