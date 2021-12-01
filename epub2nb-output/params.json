@@ -6,7 +6,9 @@
       "author": "Miloš Urban",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-03T19:14:21.917Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola ",
@@ -331,7 +333,7 @@
       "identifier": "urn:uuid:f91701f3-2ccd-40fb-bd8b-e92f714c6c4c",
       "author": "Miloš Urban",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-01T21:17:59.237Z"
+      "modified": "2021-12-01T22:04:07.815Z"
     },
     "chapters": [
       {
@@ -598,6 +600,6 @@
       "user": "books-are-next",
       "repo": "urban-sedmikosteli"
     },
-    "generatedAt": 1638393479854
+    "generatedAt": 1638396248433
   }
 }
