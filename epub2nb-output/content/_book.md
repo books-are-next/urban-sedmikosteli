@@ -9,7 +9,40 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-11-03T19:14:21.917Z'
   languageCode: cs
-chapters: []
+readingOrder:
+  - sedmikosteli_001.html
+  - sedmikosteli_002.html
+  - sedmikosteli_003.html
+  - sedmikosteli_004.html
+  - sedmikosteli_005.html
+  - sedmikosteli_006.html
+  - sedmikosteli_007.html
+  - sedmikosteli_008.html
+  - sedmikosteli_009.html
+  - sedmikosteli_010.html
+  - sedmikosteli_011.html
+  - sedmikosteli_012.html
+  - sedmikosteli_013.html
+  - sedmikosteli_014.html
+  - sedmikosteli_015.html
+  - sedmikosteli_016.html
+  - sedmikosteli_017.html
+  - sedmikosteli_018.html
+  - sedmikosteli_019.html
+  - sedmikosteli_020.html
+  - sedmikosteli_021.html
+  - sedmikosteli_022.html
+  - sedmikosteli_023.html
+  - sedmikosteli_024.html
+  - sedmikosteli_025.html
+  - sedmikosteli_026.html
+  - sedmikosteli_027.html
+  - sedmikosteli_028.html
+  - sedmikosteli_029.html
+  - sedmikosteli_030.html
+  - sedmikosteli_031.html
+  - sedmikosteli_032.html
+  - sedmikosteli_033.html
 tocBase:
   - id: section-1
     children:
@@ -63,12 +96,13 @@ tocBase:
         title: XXIV
       - link: sedmikosteli_031.html
         title: EPILOG
-    numberedChildren: false
+    isSection: true
 static:
   - style
   - scripts
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
