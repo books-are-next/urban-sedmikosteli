@@ -1,5 +1,6 @@
 ---
 title: XX
+contentType: prose
 ---
 
 Nevíme příliš mnoho o budoucnosti,  

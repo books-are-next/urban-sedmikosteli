@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Zemřeli šeredně, neb smrtí ošizenou:  

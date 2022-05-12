@@ -1,5 +1,6 @@
 ---
 title: VII
+contentType: prose
 ---
 
 Jméno! Tvé jméno pravé, ty,  

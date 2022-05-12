@@ -1,5 +1,6 @@
 ---
 title: XVI
+contentType: prose
 ---
 
 Vídám tě padat; šíp střemhlav  

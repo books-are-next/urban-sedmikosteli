@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 Co o tom říci? Co říká kruté svědomí,  

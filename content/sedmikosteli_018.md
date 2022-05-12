@@ -1,5 +1,6 @@
 ---
 title: XII
+contentType: prose
 ---
 
 Vymřelé však stojí celé město  

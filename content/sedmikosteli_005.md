@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Všechny osoby v následujícím příběhu  

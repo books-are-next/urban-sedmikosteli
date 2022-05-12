@@ -1,5 +1,6 @@
 ---
 title: XXII
+contentType: prose
 ---
 
 V úderný blesk se lámeš, věčnověká  
