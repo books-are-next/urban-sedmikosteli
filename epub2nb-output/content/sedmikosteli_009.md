@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 Putuji zemí suchých kamenů;  

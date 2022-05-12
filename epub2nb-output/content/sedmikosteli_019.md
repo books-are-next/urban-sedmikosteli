@@ -1,5 +1,6 @@
 ---
 title: XIII
+contentType: prose
 ---
 
 Co nahání mi strach?  

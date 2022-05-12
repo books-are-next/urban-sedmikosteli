@@ -1,5 +1,6 @@
 ---
 title: XIV
+contentType: prose
 ---
 
 Přetni to pouto, šupiny shoď z očí.  

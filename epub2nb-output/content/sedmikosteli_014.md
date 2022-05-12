@@ -1,5 +1,6 @@
 ---
 title: VIII
+contentType: prose
 ---
 
 Tady je chrám  

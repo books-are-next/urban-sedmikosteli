@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 Buďte mu rovny silou, paže mé! Podepříti  

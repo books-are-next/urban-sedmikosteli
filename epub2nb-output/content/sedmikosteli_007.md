@@ -1,5 +1,6 @@
 ---
 title: I
+contentType: prose
 ---
 
 Mluvím o nynější době.  

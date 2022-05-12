@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Sedmikostelí
@@ -13,7 +14,7 @@ meta:
   edition: beletrie
 readingOrder:
   - sedmikosteli_001.html
-  - sedmikosteli_002.html
+  - promo.html
   - sedmikosteli_003.html
   - sedmikosteli_004.html
   - sedmikosteli_005.html

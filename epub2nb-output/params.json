@@ -40,15 +40,17 @@
             "id": 0,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true
+            "inToc": true,
+            "children": []
           },
           {
             "filename": "sedmikosteli_002.md",
             "xhtml": "sedmikosteli_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "numberedChildren": false,
-            "inToc": true
+            "inToc": true,
+            "children": []
           },
           {
             "filename": "sedmikosteli_003.md",
@@ -56,7 +58,8 @@
             "id": 2,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true
+            "inToc": true,
+            "children": []
           },
           {
             "filename": "sedmikosteli_004.md",
@@ -64,7 +67,8 @@
             "id": 3,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true
+            "inToc": true,
+            "children": []
           },
           {
             "filename": "sedmikosteli_005.md",
@@ -72,7 +76,8 @@
             "id": 4,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true
+            "inToc": true,
+            "children": []
           },
           {
             "filename": "sedmikosteli_006.md",
@@ -80,7 +85,8 @@
             "id": 5,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true
+            "inToc": true,
+            "children": []
           },
           {
             "filename": "sedmikosteli_007.md",
@@ -89,7 +95,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "I"
+            "title": "I",
+            "children": []
           },
           {
             "filename": "sedmikosteli_008.md",
@@ -98,7 +105,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "II"
+            "title": "II",
+            "children": []
           },
           {
             "filename": "sedmikosteli_009.md",
@@ -107,7 +115,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "III"
+            "title": "III",
+            "children": []
           },
           {
             "filename": "sedmikosteli_010.md",
@@ -116,7 +125,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "IV"
+            "title": "IV",
+            "children": []
           },
           {
             "filename": "sedmikosteli_011.md",
@@ -125,7 +135,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "V"
+            "title": "V",
+            "children": []
           },
           {
             "filename": "sedmikosteli_012.md",
@@ -134,7 +145,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "VI"
+            "title": "VI",
+            "children": []
           },
           {
             "filename": "sedmikosteli_013.md",
@@ -143,7 +155,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "VII"
+            "title": "VII",
+            "children": []
           },
           {
             "filename": "sedmikosteli_014.md",
@@ -152,7 +165,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "VIII"
+            "title": "VIII",
+            "children": []
           },
           {
             "filename": "sedmikosteli_015.md",
@@ -161,7 +175,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "IX"
+            "title": "IX",
+            "children": []
           },
           {
             "filename": "sedmikosteli_016.md",
@@ -170,7 +185,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "X"
+            "title": "X",
+            "children": []
           },
           {
             "filename": "sedmikosteli_017.md",
@@ -179,7 +195,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XI"
+            "title": "XI",
+            "children": []
           },
           {
             "filename": "sedmikosteli_018.md",
@@ -188,7 +205,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XII"
+            "title": "XII",
+            "children": []
           },
           {
             "filename": "sedmikosteli_019.md",
@@ -197,7 +215,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XIII"
+            "title": "XIII",
+            "children": []
           },
           {
             "filename": "sedmikosteli_020.md",
@@ -206,7 +225,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XIV"
+            "title": "XIV",
+            "children": []
           },
           {
             "filename": "sedmikosteli_021.md",
@@ -215,7 +235,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XV"
+            "title": "XV",
+            "children": []
           },
           {
             "filename": "sedmikosteli_022.md",
@@ -224,7 +245,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XVI"
+            "title": "XVI",
+            "children": []
           },
           {
             "filename": "sedmikosteli_023.md",
@@ -233,7 +255,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XVII"
+            "title": "XVII",
+            "children": []
           },
           {
             "filename": "sedmikosteli_024.md",
@@ -242,7 +265,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XVIII"
+            "title": "XVIII",
+            "children": []
           },
           {
             "filename": "sedmikosteli_025.md",
@@ -251,7 +275,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XIX"
+            "title": "XIX",
+            "children": []
           },
           {
             "filename": "sedmikosteli_026.md",
@@ -260,7 +285,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XX"
+            "title": "XX",
+            "children": []
           },
           {
             "filename": "sedmikosteli_027.md",
@@ -269,7 +295,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XXI"
+            "title": "XXI",
+            "children": []
           },
           {
             "filename": "sedmikosteli_028.md",
@@ -278,7 +305,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XXII"
+            "title": "XXII",
+            "children": []
           },
           {
             "filename": "sedmikosteli_029.md",
@@ -287,7 +315,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XXIII"
+            "title": "XXIII",
+            "children": []
           },
           {
             "filename": "sedmikosteli_030.md",
@@ -296,7 +325,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "XXIV"
+            "title": "XXIV",
+            "children": []
           },
           {
             "filename": "sedmikosteli_031.md",
@@ -305,7 +335,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "EPILOG"
+            "title": "EPILOG",
+            "children": []
           },
           {
             "filename": "sedmikosteli_032.md",
@@ -313,7 +344,8 @@
             "id": 31,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true
+            "inToc": true,
+            "children": []
           },
           {
             "filename": "sedmikosteli_033.md",
@@ -321,7 +353,8 @@
             "id": 32,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true
+            "inToc": true,
+            "children": []
           }
         ]
       }
@@ -333,7 +366,7 @@
       "identifier": "urn:uuid:f91701f3-2ccd-40fb-bd8b-e92f714c6c4c",
       "author": "Miloš Urban",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-01T22:04:07.815Z"
+      "modified": "2019-05-29T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -600,6 +633,6 @@
       "user": "books-are-next",
       "repo": "urban-sedmikosteli"
     },
-    "generatedAt": 1638396248433
+    "generatedAt": 1652351356260
   }
 }

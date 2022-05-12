@@ -1,5 +1,6 @@
 ---
 title: EPILOG
+contentType: prose
 ---
 
 Nač darmo spěchat? Zadrž marný let!  
