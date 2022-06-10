@@ -3,6 +3,8 @@ title: XXIII
 contentType: prose
 ---
 
+<section>
+
 Zjasněte vzduch! Očistěte oblohu!  
 Omyjte vítr!  
 Vezměte kámen po kameni a omyjte je!
@@ -260,3 +262,5 @@ Oko za oko, zub za zub, ruku za ruku, nohu za nohu, spáleninu za spálenin
 Domluvil a čekal na odpověď.
 
 Mlčel jsem, ústa mi uzamkl děs – z něho, z bratrstva, ze sebe. Mlčel jsem a střežil se vydat hlásku, přestože mě slova pálila na jazyku. Zavřel jsem oči a zkusil slova polknout, ale jícen je nepřijal, uvízla v krku jako rybí kost a bodala k nesnesení. A tak jsem je vykašlal, vychrlil je ze sebe v záchvatu pochyb a nesouhlasu. Ale byla to slova přitakání. Matyáš Gmünd měl pravdu. Konečně mi byl seslán učitel.
+
+</section>

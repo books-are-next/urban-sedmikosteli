@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 Vymřelé však stojí celé město  
 jako pustá hrobka leží Praha.
 
@@ -69,3 +71,5 @@ Zastavil jsem se až před křižovatkou u Svatého Štěpána, počkal na zel
 V Hálkově ulici Záhir nebyl a nenašel jsem ho ani V Tůních. Tedy odjel – spolu s ním a fotoaparátem zmizel i vůz. Anebo taky neodjel, někdo ho třeba někam odvezl a tam ho možná zabil.
 
 Telefonní automat jsem nalezl až v podchodu na nedalekém náměstí. Při vyťukávání čísla se mi třásla ruka. Zatímco telefon na druhém konci vyzváněl, živě jsem si představil Záhira, jak leží s roztříštěnou hlavou někde ve sklepení rozpadlého domu. Ta představa se po dalším a dalším táhlém tónu ze sluchátka měnila v přesvědčení.
+
+</section>

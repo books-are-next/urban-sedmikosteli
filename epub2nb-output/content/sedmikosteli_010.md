@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Den jako den. To zdání je pouhé,  
 že budoucnosti jsme zas blíž.
 
@@ -61,3 +63,5 @@ Otáčela se ve vzduchoprázdnu kousek za prvním pilířem, visela na práde
 Mám být rád, že se to nebude vyšetřovat, tak mi to řekli, a přidali radu, abych okamžitě podal žádost o propuštění, bude zaručeně podepsána. Mám prý z pekla štěstí, o alkoholu se v protokolu neobjeví ani slovo, takovou ostudu si policie nemůže dovolit. Mou rezignaci podepsal sám Olejář a vzkázal mi, abych mu ve vlastním zájmu nechodil na oči. Prostřednictvím svého nadřízeného jsem ho požádal o rozhovor, ale neodpověděl. Celá věc mi byla od začátku podezřelá a dobře jsem věděl, že za podpis neúplného protokolu můžu být soudně stíhán, ale hrdinu jsem hrát nechtěl, bylo by to špatné představení. Oficiální verze zněla ve zkratce takto: sebevražda, jíž ostraha nemohla zabránit. Policistu zabezpečujícího ochranu před atentátem zamkla chráněná osoba ve vlastním bytě, zatímco spal. Dokazují to klíče v kabele, která zůstala ležet na chodníku nad místem neštěstí.
 
 Jak se stará žena dostala přes dvoumetrové drátěné pletivo a proč se oběsila na prádelní šňůře, když stačilo vrhnout se do hlubiny, to nikdo nevysvětlil. Nikoho to příliš nezajímalo. Toho dne došlo pod Nuselským mostem k druhému neštěstí. Nějaká mladá žena stála u zábradlí několik hodin, aby si televizní reportéři v klidu připravili náčiní. Teprve potom skočila, večer to odvysílali ve zprávách, smrt v přímém přenosu se stala hitem okurkové sezony. Sebevraždě inženýrky Pendelmanové scházel mediální půvab. S vraždou by to jistě bylo jiné, ale policie toto vysvětlení odmítla.
+
+</section>

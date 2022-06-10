@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 Qui vive?  
 U tvých dveří stojím já, prošlý čas,  
 přítel tvůj a strážce  
@@ -71,3 +73,5 @@ Olga se podívala na hodinky a řekla, že na ni venku čekají další host�
 Večer otec dojedl večeři a odjel do práce, přestože jsem měl narozeniny. Matka byla překvapená stejně jako já, nejvíc z toho, že si vzal auto. Jindy jezdil autobusem. Tušil jsem, kam má namířeno, ale mlčel jsem. V soutěži o Olžinu přízeň mě porazil na hlavu a já jsem tu prohru hodlal nést mužně. Otec mne zklamal, dokonce víc než to: byla to zrada. Ale já jsem ho zradit odmítl a těšil se na den, až si to uvědomí a uzná mou velkorysost. Nedočkal jsem se. Zato se mě zmocnila jistota, že jsem svým mlčením zradil matku. Dort, který jsem tenkrát dostal k narozeninám, pekla sama. Byl dobrý, nejlepší, jaký jsem jedl. A přesto mi hořkl v ústech a nesnědl jsem víc než kousíček.
 
 Matka na otcovu nevěru samozřejmě přišla sama, ostatně to nebylo poprvé. Nějaký čas to u nás zase za moc nestálo, tato období tiché nenávisti jsem se naučil předvídat a zvykl si na ně, jako jsem si zvykl na své rodiče. Naučil jsem se přehlížet jejich slabosti a dětinské vrtochy, smířil jsem se s jejich neschopností a neochotou mi porozumět. Naučil jsem se jim za to mstít tím, že jsem je vyloučil ze svého světa. Jenže o mých osmých narozeninách to bylo nejhorší: nikdy předtím jsem na domácích kalamitách neměl svůj podíl, až teď. Malý kuplíř – tak jsem se viděl ještě roky a styděl se před matkou, ale i před otcem a nejvíc před sebou samým. Už na to nechci myslet, i když zatím jsem na to chtě nechtě myslel každý den, až do minulého podzimu, kdy Čas všechno obrátil opačným směrem. Nestěžuji si na to, naopak. Dál by už stejně nic nemělo smysl.
+
+</section>

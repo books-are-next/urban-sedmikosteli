@@ -3,6 +3,8 @@ title: XVIII
 contentType: prose
 ---
 
+<section>
+
 Zde těsně u katedrály se zastavme.  
 Zde sečkejme.  
 Přitahuje nás nebezpečí?  
@@ -142,3 +144,5 @@ Vysoukal se z lavice, přešel na evangelijní stranu lodi a opřel se rukou 
 Kynul mi ze své výšky vlídně a přátelsky, ale jeho velké zelené oči obsahovaly jediné: příkaz.
 
 Zvedl jsem se a vykročil k němu. V tu chvíli se něco pohnulo nad vstupními dveřmi; na balkoně, jehož dveře nevedou nikam, jen do neprostupné pomalované stěny, tiše povstala jedna ze soch. Nebyla to ani Panna Maria, ani Alžběta, ani Josef a ani Zachariáš, kteří zde tvoří sousoší. Byla to socha pátá, která se mezi ně vloudila, aby dobře viděla do lodi a presbyteria. Nyní si oprášila oděv, přelezla zábradlí a před udivenými zraky dřevěných postav – i já jsem nyní byl jednou z nich se spustila po žíhaném jónském sloupu na dlažbu kostela a stanula vedle Gmünda. Její vzhůru vyčesané, plápolající vlasy mu nesahaly ani po prsa. Zatočila se mi hlava, najednou jsem potřeboval oporu. Natáhl jsem ruku a pod ochranou rytířovy lví tlapy jsem se opřel o chladivou zeď.
+
+</section>

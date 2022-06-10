@@ -3,6 +3,8 @@ title: XX
 contentType: prose
 ---
 
+<section>
+
 Nevíme příliš mnoho o budoucnosti,  
 jen to, že z generace na generaci  
 se stále znovu přiházejí stejné věci.  
@@ -267,3 +269,5 @@ Rozesmál se. „Právě váš rozum vás tam dovede – rozum a cit. Však uv
 „Škoda. Tak na brzkou shledanou.“
 
 Odešel.
+
+</section>

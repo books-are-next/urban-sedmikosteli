@@ -3,6 +3,8 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 Kdybych v sobě oživil  
 ten hlas, tu předtuchu,  
 takový jas by mě naplnil,  
@@ -172,3 +174,5 @@ Souhlasil jsem. S překvapením jsem zjistil, že večeře je pryč; přesněji
 Prunslík mě doprovodil do hotelové haly. Poté co si zdříml na okně, byl opět jako na pérkách. Když jsem mu podal ruku, postavil se na špičky a tlumeným hlasem řekl: „Jsou to story jako z Tóry, co vy na to, pane K.? A jenom rohatej ví, jak to dopadne.“ Byl jsem příliš vyčerpaný jídlem a znepokojivým rozhovorem, než abych se pozastavoval nad jeho průpovídkami, a vlastně jsem si na ně už začínal zvykat.
 
 Jako na všechno.
+
+</section>

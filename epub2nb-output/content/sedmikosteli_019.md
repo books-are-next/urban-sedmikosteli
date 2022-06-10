@@ -3,6 +3,8 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 Co nahání mi strach?  
 Co vlastně se mi stane?  
 Uvidím nevídané,  
@@ -117,3 +119,5 @@ Doprovodil jsem Lucii na zastávku tramvaje a pomohl jí s kočárem. Letmo, 
 Kvůli zlomenému listu se nová pila nevyhazuje. Zuby byly velké, dodatečně zohýbané a zpilované do dlouhých drápů dravé šelmy. Věděl jsem dobře, jak by vypadalo poleno řezané takovou pilou. Vypadalo by jako přetržené.
 
 Prapodivný den, jakých v poslední době neutěšeně přibývalo, měl svou dohru v bytě na Proseku. Vzal jsem pilu k sobě, rozhodnut předat ji co nejdřív policejní laboratoři ke zkouškám přítomnosti krve. Opatrně jsem ji osušil a obalil list starými novinami. Pak jsem se umyl, potmě se převlékl do pyžama a ulehl, spokojen, že mám pro Olejáře něco nového. Těsně před usnutím jsem si vzpomněl, že jsem nezalil své milované květiny. Zvedl jsem se z příjemně zahřáté postele, rozsvítil a shýbl se pro konvičku. Vzápětí jsem ji zase upustil. Z popínavého stonku vinné révy, který se začínal slabě zelenat, vyrůstala v hustých trsech chlupatá bílá vlákna, rašila vzhůru, ohýbala se a rozlézala do všech stran. Ta nejdelší musela mít skoro půl metru a ze všeho nejvíc připomínala vousy divého starce.
+
+</section>

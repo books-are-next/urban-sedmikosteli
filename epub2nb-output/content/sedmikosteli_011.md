@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 Buďte mu rovny silou, paže mé! Podepříti  
 pospěšte den, jenž se řítí,  
 aniž jsem dobře žil.
@@ -46,3 +48,5 @@ Univerzita mi už neměla co dát a toto vědomí mě s ní kupodivu smířilo
 A tu se změnily časy, má smutná země už byla jinou zemí, kolem ní jiná Evropa a kolem té jiný svět.
 
 Nebyl jsem tak docela bezejmenný. Dnes na něm nezáleží, ale tehdy bylo příjmení neodmyslitelnou součástí identity, a mohlo znít třeba Švach. Jako to mé.
+
+</section>

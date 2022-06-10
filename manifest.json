@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "urban-sedmikosteli-14c96a0",
-  "revision": "14c96a0",
+  "identifier": "urban-sedmikosteli-fe15011",
+  "revision": "fe15011",
   "readingOrder": [
     "sedmikosteli_001.html",
     "promo.html",
@@ -46,16 +46,16 @@
     "sedmikosteli_033.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:36:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351817114
+    "date": "Fri Jun 10 2022 17:57:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883840225
   },
   "documents": [
     {
       "title": "Sedmikostelí",
       "file": "sedmikosteli_001.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 0,
       "prev": null,
@@ -125,9 +125,9 @@
     {
       "title": "Sedmikostelí",
       "file": "sedmikosteli_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 24,
+      "chars": 150,
+      "ideas": 4,
       "role": "chapter",
       "order": 4,
       "prev": "sedmikosteli_004.html",
@@ -705,14 +705,14 @@
   ],
   "totals": {
     "all": {
-      "words": 82228,
-      "chars": 497178,
-      "ideas": 1528
+      "words": 82253,
+      "chars": 497328,
+      "ideas": 1533
     },
     "chapters": {
-      "words": 82222,
-      "chars": 497139,
-      "ideas": 1523
+      "words": 82247,
+      "chars": 497289,
+      "ideas": 1528
     }
   }
 }

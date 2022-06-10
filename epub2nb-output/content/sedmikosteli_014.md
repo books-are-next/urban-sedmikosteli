@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 Tady je chrám  
 a tady je věž,  
 tady je brána,  
@@ -249,3 +251,5 @@ Následoval jsem Gmünda k východu. Když zmizel v sakristii, otočil jsem se
 U východu minci vhodila do plechové kasičky s příspěvky na kostel.
 
 Nevermore, zakrákal krkavec nad vížkou Svatého Longina. Teď už jsem věděl, co to znamená: „Neuprchneš před sebou samým.“ Děsivý zážitek ve svatoštěpánském kostele potvrdil, že to, před čím jsem léta utíkal, se mnou zůstane po všechny mé dny.
+
+</section>

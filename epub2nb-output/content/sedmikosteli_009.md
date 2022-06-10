@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Putuji zemí suchých kamenů;  
 když se jich dotknu, krvácejí.
 
@@ -37,3 +39,5 @@ Ale čím více jsem studoval z knih, tím méně jsem stál o přímá svěde
 Netřesk mě zradil takto: oženil se se svou někdejší studentkou, dívkou o tři roky starší než já a o čtyřicet let mladší než on. Nemožný svazek, a přece jej uskutečnili, navzdory mému zoufalství. Aby unikl maloměstským posměváčkům a mým němým výčitkám, odstěhoval se s mladou ženou do Prahy a já jsem byl opět v celém okresním městě sám. Dostali jsme jiného dějepisáře, kněze, který se v padesátých letech zřekl své minulosti, aby mohl vyučovat dějiny. Byl odborníkem na dělnické hnutí, jiná historie ho málo zajímala.
 
 V zimě posledního ročníku jsem se přihlásil k přijímacím zkouškám na univerzitu. V té době jsem ve školním respiriu uspořádal obrazovou kroniku školství na Mladoboleslavsku a doprovodil ji bohatým dokumentačním aparátem, dlouho shromažďovaným po archivech. Školní inspektor ji doporučil všem středním vzdělávacím ústavům v kraji a naše gymnázium se až do letních prázdnin stalo poutním místem. Měl jsem vyhráno: maturoval jsem s tak mimořádnými výsledky, že jsem si této zkoušky musel přestat vážit, a měsíc na to mě přijali ke studiu historie na pražské filozofii. Strašně jsem se styděl, ale svého úspěchu jsem mínil využít co nejlépe.
+
+</section>

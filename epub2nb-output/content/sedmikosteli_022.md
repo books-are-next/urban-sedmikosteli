@@ -3,6 +3,8 @@ title: XVI
 contentType: prose
 ---
 
+<section>
+
 Vídám tě padat; šíp střemhlav  
 není hroznější tebe
 
@@ -71,3 +73,5 @@ Na Trugově zvětšenině se nadále vymykal pochopení černý kruh na neostr
 Tělo v popředí Trug projasnil a lépe zaostřil, takže jsme rozeznávali jednotlivé škrábance a podlitiny v oblasti pupku, prsou a krku. I do tváře bylo vidět líp: hladká, klidná a žalostně mladá. Šestnáct let? Sedmnáct? Největší pozornost poutala příšerná jizva na břiše, především místo, kde se rozvírala. Nyní bylo patrné, jak se kůže v této oblasti, hlavně v levé části břicha, nepřirozeně vybouluje. V temnotě mezi okraji rány se stříbřitě třpytil kov: tonula v ní krátká tyčinka zakončená kulatou hlavičkou a obalená nezřetelnou zelenou hmotou. Jakási osička.
 
 Z pohledu na scénu dvojí smrti a z puchu ruského tabáku se mi zatočila hlava. Zvedl jsem se a došel k té části velkého plukovníkova okna, která se dala otevřít. Ve chvíli, kdy jsem se vyklonil ven a nabíral do plic pražský vzduch, vonící v porovnání s Trugovou cigaretou jako rajská zahrada, začali na svatoštěpánské věži odbíjet poledne. Zvuk zvonů přivábil můj zrak a já jsem spočinul očima na útěšlivém čele věže, ozdobeném zlatoskvoucí královskou korunou. Ten pohled mi prozradil význam fotografova sdělení.
+
+</section>

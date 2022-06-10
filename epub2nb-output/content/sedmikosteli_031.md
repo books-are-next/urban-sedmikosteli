@@ -3,6 +3,8 @@ title: EPILOG
 contentType: prose
 ---
 
+<section>
+
 Nač darmo spěchat? Zadrž marný let!  
 Tu před zázrakem končí všechen chvat.  
 Mrtvý den začal oči otvírat.  
@@ -58,6 +60,10 @@ Zatímco se na náměstí staví, mše se slouží v provizorní stavbě dřev
 
 Pod sluncem není nic nového a nikdy nebude. Vraťme se k prověřenému, je nejvyšší čas. Jsme vyznavači starých cest — cest vedoucích zpátky. Naši přátelé v Písku, Kutné Hoře, Úštěku, Českém Dubu, Sezimově Ústí a Jindřichově Hradci jdou s námi. Když se Bůh slituje, navrátí do náruče středověku celou zemi. Novověk končí, vzdejme slávu Hospodinu a moudrému vládci Matyášovi. Kdyby jich nebylo, zřítíme se do zkázy spolu se zbytkem lidstva – ve chvíli poslední v nás probudili vnitřní zrak, obrátili náš pohled zpátky. Jen s touto vyhlídkou přečkáme apokalypsu, jen s touto vírou pronikneme do nového rajského věku, krásného a blahoslaveného čtrnáctého století.
 
-  
+</section>
+
+<section>
 
 KONEC
+
+</section>
