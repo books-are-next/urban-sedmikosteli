@@ -3,6 +3,8 @@ title: XIV
 contentType: prose
 ---
 
+<section>
+
 Přetni to pouto, šupiny shoď z očí.  
 Jen bláznu v jeho bláznovství snad připadá,  
 že točí kolem, které se s ním točí.
@@ -112,3 +114,5 @@ Klíče jsem jí nechal na botníku. Než jsem za sebou zaklapl dveře od byt
 Rostlina, kterou jsem si troufl přesadit z Nového Města na Prosek, se mi náležitě pomstila: připravila mě o střechu nad hlavou. Před domem jsem ji vyhodil do popelnice. Plechové víko se za ní zavřelo s úpěním, které se rozlehlo zšeřelým sídlištěm jako volání o pomoc.
 
 Byl jsem volný.
+
+</section>

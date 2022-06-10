@@ -3,6 +3,8 @@ title: XXIV
 contentType: prose
 ---
 
+<section>
+
 Kráčím.  
 V domácí těžkou prsť se boří můj krok.  
 Jíti toť všechna má mysl.  
@@ -51,3 +53,5 @@ A potom… potom se kyvadlo samo od sebe poznovu pomalu rozhoupává. Než obr
 Dívka přede mnou sledovala to divadlo nehybně jako socha. Náhle se jí kápě svezla na ramena a odhalila tmavé vlasy a s nimi kroužek, který se světlal na temeni hlavy: věneček žlutých květů. Jsem slabý člověk. Procitl jsem z ustrnutí a jediné, co jsem dokázal, bylo udělat krok, poodhrnout ty těžké vlasy a vtisknout polibek na bledou šíji pod nimi.
 
 Lomeným obloukem, který do noci vepsal malý sportovní vůz, jsem jako gotickým oknem vhlédl do úžasného, Božím požehnáním prozářeného světa, a Rozeta byla se mnou. V ten děsivě krásný, zázrakem prodloužený okamžik jsem byl vzat na milost a konečně jsem se zamiloval.
+
+</section>

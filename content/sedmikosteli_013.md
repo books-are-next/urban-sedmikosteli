@@ -3,6 +3,8 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 Jméno! Tvé jméno pravé, ty,  
 sluncem svržený soku,  
 zvaný stín.
@@ -140,3 +142,5 @@ Znala mě jménem, a přece jsem jí nepřišel směšný. Byl jsem bez sebe ra
 Stálo to námahu, probrat se z okouzlení. Gmünd se něčemu usmíval, opíral se v židli a těkal pohledem po stropě. Prunslík se kdovíproč krčil za zády plukovníka, který stál u okna a vyhlížel ven. Jednou rukou se držel za krk, druhou si svíral temeno hlavy. Náhle mu z pravého ucha vytryskla tekutina hustá a černá jako asfalt. Prunslík udělal šerednou grimasu a koulel očima, zatímco u svého vlastního ucha otáčel imaginárním kohoutkem. Rozeta vstala a chtěla něco říct, ale bleskově si přiložil ukazovák na křivé rty. Jeho ledové modré oči zakazovaly jakýkoli odpor, doslova Rozetu přimrazily k podlaze, jejich nečekaná výhrůžka ji zastavila v půli kroku. Zvedla zrak k Olejářovi. Hlava se mu na krku třásla, jako by překonával záchvat koliky. Odporný proud valící se z ucha mu stekl na rameno saka. Potom křeč přešla. Uvědomil si, co se stalo, a vyplašeně se po nás ohlédl. Pak vyšel z místnosti.
 
 Gmünd se stále díval do stropu, jako by si ničeho nevšiml. Prunslík se uchechtl – tak, aby to znělo jako zakašlání, ale aby to ustupující Olejář určitě slyšel. Rozeta se tvářila, jako by ho chtěla okřiknout, ale pak si to rozmyslela a beze slova odešla. Já jsem zůstal sedět a soustředil se na své srdce, které si z důvodů, jimž jsem nerozuměl, zároveň přálo i nepřálo utíkat za Rozetou.
+
+</section>

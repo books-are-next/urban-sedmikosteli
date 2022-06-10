@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Mluvím o nynější době.  
 Nastalo jaro v zimě. Teď sníh ve větvích  
 se bude snášet jako květy.
@@ -78,3 +80,5 @@ Víc se nedalo dělat. Otřel jsem si kapesníkem tvář a narovnal záda, a t
 Venku zakvílela houkačka, na schodech zadupaly boty a objevili se ošetřovatelé v červených kombinézách. Bylo vidět, jak je pohled na zranění překvapil, ale beze slova naložili muže na nosítka, připoutali ho řemeny a snesli po příkrém schodišti.
 
 Sdělil jsem policistům své podezření: někdo oběť rozhoupával až do našeho příchodu a pak rychle zmizel, byl jsem přesvědčen, že pachatel musí být nablízku. Prohledali jsme okolí zvonu v osmihranném nástavci věže a po žebříku vylezli až do kónického podkroví. Potom jsme rozevřeli okenice, abychom zjistili, zda se někdo neskrývá na římse po obvodu věže. Byla však zešikmená, udržela by se na ní leda opice. Mé přesvědčení neobstálo, ale pocit, že nejsme ve věži sami, mě neopustil. Policisté si zapsali pár poznámek a odešli, na protokol nespěchali, znali mě jako bývalého kolegu. Znovu jsem všechno prohlédl, ale jiný východ ze zvonice než schody, po nichž jsme přišli, jsem nenašel. Byla to učiněná záhada, asi jako čerstvé květy podbělu nalezené v listopadu.
+
+</section>

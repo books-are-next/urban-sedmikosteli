@@ -3,6 +3,8 @@ title: XXII
 contentType: prose
 ---
 
+<section>
+
 V úderný blesk se lámeš, věčnověká  
 průtrži srázné sametové klenby černa.
 
@@ -113,3 +115,5 @@ Olovnice mířila na děsivý výjev: na ženskou tvář zrůzněnou bolestí,
 Vmžiku jsem se vrátil očima k madonce, abych z jejího klidného úsměvu načerpal sílu a nabyl ztracenou rovnováhu. Ale úsměv byl pryč. Vystřídal ho škleb, odporná, nevídaná směsice rozkoše a bolesti. Pootevřené oči zahlcoval kal kamenných slz. Tělo pod hlavou, prve tak nejasné, se nyní zúplna stavělo na odiv. Změnilo se. Trup byl dutý, paže jej samy otvíraly jako deskový oltář, aby do něj bylo vidět. Uvnitř sedělo Jezulátko na zdobeném trůně. Ručky mělo rozpřažené, avšak v jeho majestátu byla pýcha. „Pohleďte, co všechno dovedu!“ Z hlavy mu rostly dva dlouhé vzpřímené růžky, přikloněné k sobě jako hroty na ramenou odpichovacího kružítka, jež se v imaginárním bodě vždycky setkají. A skutečně se musely protínat, jenže to nebylo vidět: vězely totiž v stylizovaném, romaneskně baculatém matčině srdci, odkud po nich kanula v těžkých krůpějích krev. Dětská tvářička, podivně známá, se divoce smála bezzubými ústy a z jejích široce rozevřených očí prýštilo šílenství. Vídal jsem tu tvář, bylo to dávno, dlouho před příchodem do Prahy. Patřila smutnému, pro svět a život ztracenému dítěti, které jsem kdysi znával. Patřila mně.
 
 Víc jsem nechtěl vidět. Vrhl jsem se na to divadlo pěstmi, bil do něj a kopal v záchvatu nepříčetnosti. Avšak jediné, na co narážely mé klouby, byly hladké vnitřní stěny klenební kápě, milosrdné ve své tvrdosti. Vrhl jsem se proti nim hlavou, a tu se se mnou trychtýř roztočil, proti směru hodin, pomaloučku, pak rychleji a brzy rotoval v divokém víru. Odstředivá síla mě nesmlouvavou, neviditelnou dlaní tlačila do stěny, zatímco nohy se jako vývrtka v špuntu zarývaly stále hloub. Rychlost vířícího trychtýře, v němž to hučelo, dunělo a burácelo, vykreslila v kalném vzduchu zářivý bílý kruh, a já jsem v té závrati nepoznával, zda jde o pouhý optický klam, anebo zda se vír zhmotnil v kámen. Podařilo se mi odtrhnout hlavu od zdi a nahlédnout do středu kruhu. Poslední, co jsem spatřil, byla hrozivá ozubená kola jakéhosi orloje a také kladivo, komíhající se tu na jednu, tu na druhou stranu, a zároveň to bylo srdce obrovitého rozkymáceného zvonu. Bohužel jsem je zaznamenal až v okamžiku, kdy se řítilo přímo na mě. Ten úder jsem uvítal, byla to rána z milosti. Zcela mě zbavila utrpení.
+
+</section>

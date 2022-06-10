@@ -3,6 +3,8 @@ title: XV
 contentType: prose
 ---
 
+<section>
+
 Jsem volný jak kámen,  
 jenž padne, kam padá,  
 jsem svobodný jak ten,  
@@ -65,3 +67,5 @@ Vrátil jsem se do předpokoje a tu jsem zaslechl, jak se v předsíni otevř
 Ven do předsíně jsem nemohl, ale podle mého odhadu musely jediné zbylé tamní dveře vést tam, kam vedly poslední dveře odtud: do modrého pokoje. Opřel jsem se do nich a konečně vstoupil do míst, která se na příští dny měla stát mým domovem.
 
 Kovově šedý ošlapaný koberec, rozkládací pohovka se slézovým čalouněním, akvamarínové závěsy na oknech, stůl přikrytý ubrusem s provensálským vzorem, obrázky rybníků a vzdáleného rákosí, nevkusná lampička ve tvaru lučního zvonku. Modrý pokoj, nijak krásný, spíš studený, neosobní a smutný, vskutku hotelový. Bylo to zvláštní, ale hned jak jsem za sebou zavřel a zanechal Rozetu, Gmünda i Prunslíka na pospas jejich bludnému, přízračnému příbytku, začal jsem se tu cítit jako doma.
+
+</section>

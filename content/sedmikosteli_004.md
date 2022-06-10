@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Sedmikostelí](https://search.mlp.cz/cz/titul/sedmikosteli/4040971/) tak, jak bylo vydáno nakladatelstvím Argo v Praze v roce 2014. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 §
@@ -16,3 +18,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 Verze 1.0 z 27. 5. 2019.
 
 ![image002.jpg](./resources/image002_fmt.jpeg)
+
+</section>

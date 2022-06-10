@@ -3,6 +3,8 @@ title: XXI
 contentType: prose
 ---
 
+<section>
+
 Kopyt klopýtavých  
 zněl tam umíráček
 
@@ -85,3 +87,5 @@ Odpoledne se na scéně objevil patolog Trug, jako vždy, když ho bylo zapotř
 Když jsem večer v zavřené ulici opět osaměl, vzpomněl jsem si na pojízdný jeřáb, který ráno stál u kostela svatého Václava. Oranžová tatra, model, který dávno nahradily novější a výkonnější pracovní vozy. K čemu silničáři potřebovali jeřáb? Doběhl jsem ke kostelu a znovu přehlédl stavební stroje: míchačka, válcovací vůz, asfaltovací vůz. Jeřáb zmizel. Byl jsem si jist, že je to ten, s jehož pomocí vraždící maniak vyzvedl na stožáry u Kongresového centra nohy inženýra Řehoře a snesl královskou korunu ze špice věže Svatého Štěpána, aby do ní vpletl mladého vandala. Ani mě nenapadlo říkat o tom Olejářovi.
 
 Do hotelu Bouvines jsem se vrátil za tmy. Přemýšlel jsem o tom, co mi plukovník řekl, než odpoledne odjel z místa vraždy. Vyhledal mě na nábřeží. Pravé ucho měl plné toho svého svinstva, i on vypadal, jako by se ho pokusili zaasfaltovat. Toto byla jeho slova: „Co je ubožejší než bodyguard, který neuhlídá klienta? Bodyguard, který neuhlídá dva klienty. Vás byl policejnímu sboru čert dlužen. Možná to opravdu nevíte, možná před tím zavíráte oči nebo s námi hrajete nekalou hru, ale opravdu to vypadá, že všecky ty vraždy se dějí na počest jediného člověka, ač pro to zatím nemám žádné rozumné vysvětlení. Chcete vědět, kdo si myslím, že to je? Netušíte to už? Vidím, že vám to dochází, že už to taky začínáte chápat. Tím dotyčným je ten nejneschopnější policajt na světě – vy sám.“
+
+</section>

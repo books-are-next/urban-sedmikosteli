@@ -3,6 +3,8 @@ title: XIX
 contentType: prose
 ---
 
+<section>
+
 Odneste hodiny!  
 Čas sám mi v srdci bije.
 
@@ -91,3 +93,5 @@ Události mě zdržely, na schůzku s Matyášem Gmündem jsem se nemohl dosta
 Za slupským kostelem jsem se dal Horskou a pak zabočil mezi jednotlivé budovy lékařské a přírodovědecké fakulty. Chvíli jsem tam bloudil a poslouchal vítr, který se sem hnal hned ze severu, hned ze západu a hlasitě tu vyváděl, jako by puristické stavby z počátku století byly vybaveny důmyslným zesilovačem jeho strašidelného sténání. Z chumelenice jsem se vynořil pod prosklenou rotundou Purkyňova ústavu, která tvarem připomíná modlitebnu, a v úleku se před ní zastavil. Pět velkých oken v prvním a deset okének v druhém patře ostře kontrastovalo s ledovým plédem pokrývajícím kuželovitou střechu, parapety a chodník. Odspoda až nahoru halilo zevnitř okna tmavé sukno, rotunda tu stála jako černý maják, co nikdy nesvítí – znamení zaslepení, s jakým se troufalá věda pokouší proniknout do tajů bytí. Neměl jsem tušení, jaké mše se za mrtvými okny slouží, ale s ohavnou vzpomínkou na jiný svatostan vědeckých božstev, jehož modravá omítka se ztrácela mezi vířícími vločkami, jsem zrychlil krok a zamířil k albertovským schodům.
 
 Něco mě však donutilo do třetice se na své cestě zastavit. Za křižovatkou Albertova a Votočkovy ulice zastiňuje dlážděný chodník mezi ploty smuteční vrba. Pod zkroucenými prsty holých větví někdo stál. O plot se opírala malá paní v dlouhém kabátě, s velkými brýlemi na nose a hnědou taškou v ruce. Oky plotu upřeně pozorovala záhony opodál. Ani jsem nemusel sledovat směr jejího pohledu, to, co ji zaujalo v zahradě experimentální biologie, jsem nemohl přehlédnout. Ze sněhu rašily palicovité rostliny zbarvené modře, žlutě a oranžově, a to po celé délce, od spodní části stonku vzhůru, přes listy až po chumáče nevzhledných plodů. Ty byly okousané. Mezi rostlinami byl sníh zdupaný, některé stopy vedly až k plotu, stopy kopyt, jaká jsem nikdy neviděl. Připomínala kopyta koňská, nedělená, avšak menší. Nejpodivnější na nich bylo, že se vpředu neklenula do kulatých obloučků, nýbrž do ostře lomených oblouků, naštěstí neokovaných. Jaké štěstí by asi přinesla podkova takového koně?
+
+</section>

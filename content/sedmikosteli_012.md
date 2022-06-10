@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Odmykám v domě U Sirény  
 odmykám U Tří jelenů  
 A kdosi stojí v temné chodbě  
@@ -75,3 +77,5 @@ U Koláčníků, U Kominíčků a U Zahrádeckých.
 A U Dobrých.
 
 A U Pekelských.
+
+</section>

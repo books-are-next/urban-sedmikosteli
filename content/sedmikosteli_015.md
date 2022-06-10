@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 Co o tom říci? Co říká kruté svědomí,  
 ten přízrak na mé cestě?
 
@@ -199,3 +201,5 @@ Objevila se nová kapka. Odtrhl jsem od ní zrak, zvedl oči a lekl se pohledu
 Za dveřmi cinkla lžička o porcelán. V tu chvíli jsem byl na nohou a stoupl si k oknu, předstíraje, že si zpod závěsu prohlížím špinavý dvůr. Ale neviděl jsem nic, jenom rozmazaný šedý den. Zamrkal jsem, obrysy domů se zostřovaly pomalu.
 
 Slyšel jsem vstoupit Netřeska, nesl podnos s kávou. Oznámil ženě, že jí udělal heřmánkový čaj. Poděkovala a napomenula ho, že mi zapomněl nabídnout cukr. Zalhal jsem, že nesladím, a otřel si dlaní tvář, kde mě štípalo Luciino mléko. Určitě je sladké, pomyslel jsem si, ale olíznout si prsty jsem se neodvážil. Zbrkle jsem vypil kávu a popálil si ústa. Omluvil jsem se, že mám nějakou práci. Profesor si vyžádal mé telefonní číslo; musíme zajít na pivo. Dal jsem mu ho. Když jsem stál na chodbě a on za mnou tiše zavřel dveře, hltavě jsem si olízal ruku. Jenže jazyk, ten opařený nešika, na ní už mateřské mléko nenašel.
+
+</section>

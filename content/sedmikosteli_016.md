@@ -3,6 +3,8 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 Všechny cesty vedou  
 vzhůru ke hřbitovu.
 
@@ -183,3 +185,5 @@ Vítězoslavně na mě cenil zažloutlé zoubky a já musel uznat, že má pra
 „Vy můj hlupáčku, jdete s křížkem po funuse! Když se jeřáb nepodařilo dát do pohybu, rozhodli dopraváci, že bude zítra odtažen. Jenže ho nikdo nehlídal. Celí policajti – nechat si vyfouknout takový kolos. Olejář o tom nechce mluvit a vydal zákaz zmínit to před novináři. Takovou nepoctivost byste do něj neřekl, že ne?“
 
 Zahihňal se, zašilhal na mě jedním modrým, krystalicky průzračným, krystalicky tvrdým okem a dodal: „Nebo řekl?“
+
+</section>
