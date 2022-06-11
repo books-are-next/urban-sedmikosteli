@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "urban-sedmikosteli-fe15011",
-  "revision": "fe15011",
+  "identifier": "urban-sedmikosteli-57fd59b",
+  "revision": "57fd59b",
   "readingOrder": [
     "sedmikosteli_001.html",
     "promo.html",
@@ -46,8 +46,8 @@
     "sedmikosteli_033.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:57:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883840225
+    "date": "Sat Jun 11 2022 12:13:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949599106
   },
   "documents": [
     {
