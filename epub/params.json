@@ -21,14 +21,14 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP-text-bez1radku MLP-text-bez1radku--0-12 ",
+      "brBefore": "MLP-text-bez1radku MLP-text-bez1radku--0-12 MLP-dopis-bez1radku--I ",
       "brAfter": "MLP-text-bez1radku--12-0",
       "blockquote": "",
       "figure": "",
-      "centered": "",
+      "centered": "MLP-text-uprostred ",
       "verse": "",
-      "em": "MLP-venovani MLP-znak-kurziva-11b ",
-      "strong": "",
+      "em": "MLP-venovani MLP-znak-kurziva-11b MLP-citat MLP-dopis-bez1radku--I ",
+      "strong": "MLP-tiraz-autor-a-nazev ",
       "remove": "",
       "ignore": ""
     },
@@ -81,9 +81,9 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
             "title": "Slovo autora",
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "sedmikosteli_006.md",
@@ -92,9 +92,9 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
             "title": "Citáty",
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "sedmikosteli_007.md",
@@ -353,9 +353,9 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
             "title": "Poděkování",
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "sedmikosteli_033.md",
@@ -644,6 +644,6 @@
       "user": "books-are-next",
       "repo": "urban-sedmikosteli"
     },
-    "generatedAt": 1655979940565
+    "generatedAt": 1656341261613
   }
 }
