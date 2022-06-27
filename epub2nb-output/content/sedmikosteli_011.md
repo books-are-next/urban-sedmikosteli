@@ -5,9 +5,9 @@ contentType: prose
 
 <section>
 
-Buďte mu rovny silou, paže mé! Podepříti  
+_Buďte mu rovny silou, paže mé! Podepříti  
 pospěšte den, jenž se řítí,  
-aniž jsem dobře žil.
+aniž jsem dobře žil._
 
 — R. Weiner
 

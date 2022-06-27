@@ -5,8 +5,8 @@ contentType: prose
 
 <section>
 
-Den jako den. To zdání je pouhé,  
-že budoucnosti jsme zas blíž.
+_Den jako den. To zdání je pouhé,  
+že budoucnosti jsme zas blíž._
 
 — O. Mikulášek
 

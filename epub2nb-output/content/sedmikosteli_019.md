@@ -5,10 +5,10 @@ contentType: prose
 
 <section>
 
-Co nahání mi strach?  
+_Co nahání mi strach?  
 Co vlastně se mi stane?  
 Uvidím nevídané,  
-až jednou přejdu práh.
+až jednou přejdu práh._
 
 — K. Kraus
 

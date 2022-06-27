@@ -5,8 +5,8 @@ contentType: prose
 
 <section>
 
-Odneste hodiny!  
-Čas sám mi v srdci bije.
+_Odneste hodiny!  
+Čas sám mi v srdci bije._
 
 — K. Kraus
 

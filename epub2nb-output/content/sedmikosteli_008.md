@@ -5,10 +5,10 @@ contentType: prose
 
 <section>
 
-Qui vive?  
+_Qui vive?  
 U tvých dveří stojím já, prošlý čas,  
 přítel tvůj a strážce  
-a varovník.
+a varovník._
 
 — R. Weiner
 

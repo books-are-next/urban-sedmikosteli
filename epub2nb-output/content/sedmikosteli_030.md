@@ -5,10 +5,10 @@ contentType: prose
 
 <section>
 
-Kráčím.  
+_Kráčím.  
 V domácí těžkou prsť se boří můj krok.  
 Jíti toť všechna má mysl.  
-S vámi má touha jediná.
+S vámi má touha jediná._
 
 — R. Weiner
 

@@ -5,9 +5,9 @@ contentType: prose
 
 <section>
 
-Přetni to pouto, šupiny shoď z očí.  
+_Přetni to pouto, šupiny shoď z očí.  
 Jen bláznu v jeho bláznovství snad připadá,  
-že točí kolem, které se s ním točí.
+že točí kolem, které se s ním točí._
 
 — T. S. Eliot
 

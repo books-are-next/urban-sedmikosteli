@@ -5,9 +5,9 @@ contentType: prose
 
 <section>
 
-Zemřeli šeredně, neb smrtí ošizenou:  
+_Zemřeli šeredně, neb smrtí ošizenou:  
 chytli se do ok spletených z drsných křiků  
-(svých vlastních křiků)
+(svých vlastních křiků)_
 
 — R. Weiner
 

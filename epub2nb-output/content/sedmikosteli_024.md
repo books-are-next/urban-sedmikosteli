@@ -5,11 +5,11 @@ contentType: prose
 
 <section>
 
-Zde těsně u katedrály se zastavme.  
+_Zde těsně u katedrály se zastavme.  
 Zde sečkejme.  
 Přitahuje nás nebezpečí?  
 Nebo naše nohy přitahuje  
-ke katedrále vědomí záštity?
+ke katedrále vědomí záštity?_
 
 — T. S. Eliot
 

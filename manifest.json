@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "urban-sedmikosteli-f041946",
-  "revision": "f041946",
+  "identifier": "urban-sedmikosteli-c76d744",
+  "revision": "c76d744",
   "readingOrder": [
     "promo.html",
     "sedmikosteli_005.html",
@@ -43,8 +43,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 27 2022 14:49:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656341377465
+    "date": "Mon Jun 27 2022 14:56:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656341805393
   },
   "documents": [
     {
@@ -622,9 +622,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 126,
+      "words": 127,
       "chars": 836,
-      "ideas": 14,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "sedmikosteli_032.html",
@@ -642,9 +642,9 @@
   ],
   "totals": {
     "all": {
-      "words": 82239,
+      "words": 82240,
       "chars": 497232,
-      "ideas": 1524
+      "ideas": 1525
     },
     "chapters": {
       "words": 82108,

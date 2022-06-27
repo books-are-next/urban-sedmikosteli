@@ -5,9 +5,9 @@ contentType: prose
 
 <section>
 
-Jméno! Tvé jméno pravé, ty,  
+_Jméno! Tvé jméno pravé, ty,  
 sluncem svržený soku,  
-zvaný stín.
+zvaný stín._
 
 — R. Weiner
 

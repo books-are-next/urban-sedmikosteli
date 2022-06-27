@@ -5,8 +5,8 @@ contentType: prose
 
 <section>
 
-Vymřelé však stojí celé město  
-jako pustá hrobka leží Praha.
+_Vymřelé však stojí celé město  
+jako pustá hrobka leží Praha._
 
 — K. H. Mácha
 

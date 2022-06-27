@@ -5,10 +5,10 @@ contentType: prose
 
 <section>
 
-Jsem volný jak kámen,  
+_Jsem volný jak kámen,  
 jenž padne, kam padá,  
 jsem svobodný jak ten,  
-jenž dal slib.
+jenž dal slib._
 
 — R. Weiner
 
