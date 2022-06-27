@@ -5,10 +5,10 @@ contentType: prose
 
 <section>
 
-Nač darmo spěchat? Zadrž marný let!  
+_Nač darmo spěchat? Zadrž marný let!  
 Tu před zázrakem končí všechen chvat.  
 Mrtvý den začal oči otvírat.  
-A čas se vrací zpět.
+A čas se vrací zpět._
 
 — K. Kraus
 
@@ -68,6 +68,10 @@ Pod sluncem není nic nového a nikdy nebude. Vraťme se k prověřenému, je 
 
 <section>
 
+<div class="centered">
+
 KONEC
+
+</div>
 
 </section>

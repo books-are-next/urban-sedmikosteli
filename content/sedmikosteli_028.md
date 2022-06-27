@@ -5,8 +5,8 @@ contentType: prose
 
 <section>
 
-V úderný blesk se lámeš, věčnověká  
-průtrži srázné sametové klenby černa.
+_V úderný blesk se lámeš, věčnověká  
+průtrži srázné sametové klenby černa._
 
 — R. Weiner
 

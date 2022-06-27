@@ -5,8 +5,8 @@ contentType: prose
 
 <section>
 
-Vídám tě padat; šíp střemhlav  
-není hroznější tebe
+_Vídám tě padat; šíp střemhlav  
+není hroznější tebe_
 
 — R. Weiner
 

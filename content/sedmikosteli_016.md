@@ -5,8 +5,8 @@ contentType: prose
 
 <section>
 
-Všechny cesty vedou  
-vzhůru ke hřbitovu.
+_Všechny cesty vedou  
+vzhůru ke hřbitovu._
 
 — O. Mikulášek
 

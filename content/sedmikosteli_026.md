@@ -5,10 +5,10 @@ contentType: prose
 
 <section>
 
-Nevíme příliš mnoho o budoucnosti,  
+_Nevíme příliš mnoho o budoucnosti,  
 jen to, že z generace na generaci  
 se stále znovu přiházejí stejné věci.  
-Lidé se málo učí z cizí zkušenosti.
+Lidé se málo učí z cizí zkušenosti._
 
 — T. S. Eliot
 

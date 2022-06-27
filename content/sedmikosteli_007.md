@@ -5,9 +5,9 @@ contentType: prose
 
 <section>
 
-Mluvím o nynější době.  
+_Mluvím o nynější době.  
 Nastalo jaro v zimě. Teď sníh ve větvích  
-se bude snášet jako květy.
+se bude snášet jako květy._
 
 — T. S. Eliot
 

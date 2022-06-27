@@ -5,8 +5,8 @@ contentType: prose
 
 <section>
 
-Co o tom říci? Co říká kruté svědomí,  
-ten přízrak na mé cestě?
+_Co o tom říci? Co říká kruté svědomí,  
+ten přízrak na mé cestě?_
 
 — W. Chamberlayne
 

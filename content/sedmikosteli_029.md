@@ -5,9 +5,9 @@ contentType: prose
 
 <section>
 
-Zjasněte vzduch! Očistěte oblohu!  
+_Zjasněte vzduch! Očistěte oblohu!  
 Omyjte vítr!  
-Vezměte kámen po kameni a omyjte je!
+Vezměte kámen po kameni a omyjte je!_
 
 — T. S. Eliot
 

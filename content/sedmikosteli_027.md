@@ -5,8 +5,8 @@ contentType: prose
 
 <section>
 
-Kopyt klopýtavých  
-zněl tam umíráček
+_Kopyt klopýtavých  
+zněl tam umíráček_
 
 — O. Mikulášek
 

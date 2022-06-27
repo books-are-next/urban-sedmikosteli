@@ -5,11 +5,11 @@ contentType: prose
 
 <section>
 
-Kdybych v sobě oživil  
+_Kdybych v sobě oživil  
 ten hlas, tu předtuchu,  
 takový jas by mě naplnil,  
 že z té hudby ve vzduchu  
-palác postavil bych zas.
+palác postavil bych zas._
 
 — S. T. Coleridge
 

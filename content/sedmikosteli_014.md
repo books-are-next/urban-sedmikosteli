@@ -5,10 +5,10 @@ contentType: prose
 
 <section>
 
-Tady je chrám  
+_Tady je chrám  
 a tady je věž,  
 tady je brána,  
-otevřít běž.
+otevřít běž._
 
 — Říkanka
 

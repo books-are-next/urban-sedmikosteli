@@ -5,10 +5,10 @@ contentType: prose
 
 <section>
 
-Odmykám v domě U Sirény  
+_Odmykám v domě U Sirény  
 odmykám U Tří jelenů  
 A kdosi stojí v temné chodbě  
-a volá jméno po jménu
+a volá jméno po jménu_
 
 — K. Šiktanc
 
