@@ -11,13 +11,21 @@ Jen bláznu v jeho bláznovství snad připadá,
 
 — T. S. Eliot
 
+</section>
+
+<section>
+
 V pondělí jsem vstal časně. Paní Frýdovou, která se od šesti hodin dívala na televizi, to potěšilo. Umíchala mi tři vejce na slanině, a když přede mne tuto královskou snídani prostírala, vyslovila přesvědčení, že jsem si určitě našel práci, prý je to na mně vidět. Neměl jsem to srdce zavrtět hlavou, a tak jsem se soustem chleba v ústech zamumlal, že se mi něco rýsuje. Při jídle jsem sledoval, jak se venku rozednívá do špinavého, žlutošedého rána; vypadalo to na sníh. Rtuť v teploměru za oknem se chvěla na nule.
 
-Zatím začalo sněžit na obrazovce televizoru. Paní domácí do něj udeřila, a chumelenice zhoustla. Pak televizi vypnula a posadila se naproti mně. Začala se vyptávat, co jsem v poslední době dělal. S omluvou jsem se stáhl do svého pokoje, ale přišla za mnou; neměl jsem vyvětráno a přikrývky byly rozházené po nábytku. Na maličkém psacím stole ležely otevřené tři knihy, které paní Frýdovou zaujaly. Nečekala na souhlas a šla se podívat. Kronika královské Prahy, Pražské pověsti a legendy, Mluvící architektura města Prahy. Tázavě zvedla obočí a podotkla, že doufá, že se nevracím na tu hloupou školu. Uklidnil jsem ji, že mě to ani nenapadne. Pak jsem vytáhl zpod postele pilu a rázným tónem oznámil, že musím okamžitě na policii. Překvapeně zamrkala a beze slova vycouvala z pokoje. Ohyzdné rostliny si nevšimla.
+Zatím začalo sněžit na obrazovce televizoru. Paní domácí do něj udeřila, a chumelenice zhoustla. Pak televizi vypnula a posadila se naproti mně. Začala se vyptávat, co jsem v poslední době dělal. S omluvou jsem se stáhl do svého pokoje, ale přišla za mnou; neměl jsem vyvětráno a přikrývky byly rozházené po nábytku. Na maličkém psacím stole ležely otevřené tři knihy, které paní Frýdovou zaujaly. Nečekala na souhlas a šla se podívat. _Kronika královské Prahy, Pražské pověsti a legendy, Mluvící architektura města Prahy_. Tázavě zvedla obočí a podotkla, že doufá, že se nevracím na tu hloupou školu. Uklidnil jsem ji, že mě to ani nenapadne. Pak jsem vytáhl zpod postele pilu a rázným tónem oznámil, že musím okamžitě na policii. Překvapeně zamrkala a beze slova vycouvala z pokoje. Ohyzdné rostliny si nevšimla.
 
 Vyrazil jsem příliš brzy, chtěl jsem být co možná nejdřív za dveřmi. Řekl jsem si, že dojdu na Bojiště pěšky. Panelové domy spaly, zahrádky ve svahu se choulily zimou, chodníky mlčely. Šel jsem tichým krokem. Jen na silnicích to skučelo, za okénky přepravních strojů tu a tam blikla lidská tvář, světlá protažená šmouha. Připadal jsem si v tom náměsíčném, do neznáma ujíždějícím městě výjimečný: jediný pěšák, pocestný, stopař. Dokonce jsem se dopustil hříchu sebelásky; když kolem mne prosupěl xtý autobus, pokusil jsem se na sebe podívat očima jedné z bledých tváří v něm uvězněných: osamělý Indián v zašlém ponču, ubírající se s rámovou pilou přes rameno k lesu. Bezpochyby se ten muž pohybuje, ale v porovnání s rychlostí automobilů to vypadá, jako by stál a chůzi z jakéhosi důvodu jen předstíral. Lenoch jakýsi, myslí si bledá tvář. Čeká snad, že se k němu někdo přidá? Kdo by se odvážil, když mu jde v patách obluda Čas a už už otvírá chřtán? Vždyť Čas nejdřív požírá pomalé – ty, co mu nestačí. Co mu neutekli. Zmate je ve svých útrobách a obrátí jejich krok zpátky.
 
 Napůl jsem doufal, že se na policejním ředitelství setkám s Rozetou, ale když jsem před desátou vstoupil do rozlehlé náčelníkovy kanceláře, byl Olejář sám. Aniž zvedl oči od obrazovky počítače, pokynul mi, abych si sedl. Za velkými okny s rozevřenými žaluziemi se z nazelenalého nebe snášely sněhové vločky. Chodníky pokrýval bílý koberec, který zajisté zmizí dřív, než přijde poledne. Svatoštěpánská věž se tenčila v mlžném oparu.
+
+</section>
+
+<section>
 
 Rozbalil jsem noviny ovinuté kolem pily a položil si ji přes nohy. Naschvál jsem zavadil rámem o kovovou židli, abych upoutal plukovníkovu pozornost.
 
@@ -63,6 +71,10 @@ Jeho starost vypadala upřímně. Ale kdoví – mohla v ní být zašifrován
 
 Před dvanáctou se zvedl a pozval mě na oběd dolů do kantýny. Přijal jsem. U výdejového pultu jsem si vybral bezmasé jídlo a hrachovou polévku. Bůhvíproč mi mladá kuchařka naplnila talíř po samý okraj; všiml jsem si, že se mi spolu s jinou dívkou smějí. Při chůzi nebylo možné pár lžic nevyšplíchnout na tác. Olejář nad mým výběrem neznatelně povytáhl obočí, sám polévku vynechal. Nechal si načepovat pivo a objednal i mně. Než za oba zaplatil, bouchl mi napěněnou sklenicí o tác, až jsem ho málem upustil i s obědem. Polévky už byla v talíři polovina. Z kuchyně se valila pára prosycená pachem dušeného masa, cítit byl hlavně česnek a zázvor. Sál se zdál úplně plný. Trémou se mi rozechvěly ruce, připadalo mi, že se všechny hlavy zvedají od jídla a sledují, jak s naloženým podnosem vrávorám po kluzkých dlaždicích. Přímo jsem slyšel, jak hluk a cinkání příborů ustávají a otáčejí se po mně i ti, co sedí zády. Zamlžil se mi zrak a zatočila hlava, z nosu se mi spustila krev. Byl jsem vězněm té hloupé situace.
 
+</section>
+
+<section>
+
 Zvedl jsem hlavu, ale ne dost rychle. Nad horním rtem mě zalechtal teplý pramínek a pár kapek skanulo do polévky, v husté tekutině po nich zůstaly tři rozpité skvrny. Zamrkal jsem, aby se vstřebaly slzy, které mi do očí vehnaly páry z kuchyně. Stál jsem uprostřed jídelního sálu. Koutkem oka jsem zahlédl plukovníka, jak si sedá k neobsazenému stolu na druhém konci a mává na mě. Kromě něj si mě nikdo nevšímal, nezahlédl jsem jediného posměváčka; spadl mi kámen ze srdce. Už jistějším krokem jsem se pustil přes jídelnu.
 
 V ten ráz jsem znovu div neupustil tác. Zcela vpravo, poblíž pojízdného pásu na odkládání nádobí, seděla Rozeta. Byla u stolu sama. Tak rád bych si k ní byl přisedl, ale vystavit jejímu pohledu svůj nespolehlivý nos jsem se neodvážil. Udivila mě její vizáž – opět se zcela změnila. Po vyhublé tváři z okna Hlavova ústavu nebylo stopy. Viděl jsem plné líce, silný krk přiškrcený límcem, masitá záda napěchovaná do černé košile stejnokroje; basa metr široká, jak praví starý verš. Jak někdo může tak rychle ztloustnout? Uniforma se jakoby scvrkla, svírala tělo v pevných švech. Policistka uvězněná vlastní uniformou. Žena uvězněná vlastním tělem. Před Rozetou byl jeden hluboký a dva mělké talíře. Všechny tři prázdné. A navíc tam měla tři misky. Jednu téměř prázdnou a dvě plné. Vanilkový pudink s malinovou šťávou a šlehačkou. První misku dojedla ve chvíli, kdy jsem ji míjel. Ještě jsem zahlédl, jak ji odsunula stranou a sáhla po jiné. Vypadala nešťastně. Přinutil jsem se jít dál.
@@ -83,9 +95,17 @@ Zatímco Trug jedl, s gustem nás seznamoval s výsledky testu přítom­nosti
 
 Odpoledne jsem šel navštívit starce, který v úterý telefonoval na policii. Bydlel hned v Lípové, kousek u křižovatky, nad níž se zvedal k tmavnoucímu nebi hranol svatoštěpánské věže.
 
+</section>
+
+<section>
+
 Muž se jmenoval Václavek a odmítl mi otevřít, protože jsem se neměl čím prokázat. Na radu, aby si mou totožnost ověřil telefonátem na policejní ústředí, nijak nereagoval. Hovořil se mnou skulinou v pootevřených dveřích, zajištěných řetízkem. Nebylo mu pořádně vidět do tváře, čeho jsem si všiml, bylo jen zarudlé olysalé temeno, ohnutý nos, váčky pod zanícenýma očima a svraštělá kůže na vyhublém krku. Byl neochotný a stále opakoval, že všecko už policii řekl. Koruna tam prý nebyla, viděl to na vlastní oči, někdo ji ukradl a pak zase vrátil. Víc říci nechtěl, a kdybych mezi dveře nestrčil nohu, zaklapl by je. Zkusil jsem jeho zmatenou řeč zpochybnit dotazem, co tedy viděl, když tam „ta koruna“ nebyla, ale nedal se nachytat a dál vedl svou, že nic. Na můj poslední pokus něco se dozvědět – zda koruna, o níž mluví, je diadém, o němž mluvil posledně –, zavrčel, že to dá rozum, a vší silou mi dupl na nohu zaklíněnou ve dveřích. Nebolelo to, ale instinktivně jsem ucukl. Přitom jsem nártem zachytil starcův pantofel a vytáhl ho ven. Dveře se zabouchly. Zvonil jsem, ale už neotevřel. Zastrčil jsem pantofel za kliku a rozhovor se svědkem zmizení koruny „patřící nám všem“ jsem vzdal. V duchu jsem spílal plukovníkovi, že mi zadal úkol, který by nesplnil ani sebelepší detektiv.
 
 Jak jsem předpokládal, sníh brzy roztál, ale bylo stále lezavo. Těšil jsem se na vyhřátý pokojík u paní Frýdové a na knihy, do kterých se co nevidět začtu na měkkém koberci. Kdybych tušil, co mě po návratu čeká, byl bych na Prosek tak nepospíchal.
+
+</section>
+
+<section>
 
 Jen jsem vstoupil do dveří, paní Frýdová mi oznámila, že klíče, kterými jsem si právě odemkl, jí mám do měsíce odevzdat. Stála v předsíni a třásla se jako osika; bylo to z rozčilení, ale v jejích očích jsem zahlédl i strach. Přestože mě ta omračující slova naplnila úzkostí, klidným hlasem jsem ji požádal, ať mi to vysvětlí. Sedli jsme si v maličkém obývajícím pokoji, kam jsem vcházel jen zřídka. Nad televizí, schovanou pod háčkovaným přehozem s motivem růží a granátových jablek, visel začernalý krucifix.
 
@@ -108,6 +128,10 @@ Vyložil jsem mu svou situaci. Bez zaváhání řekl, že mě očekává ve sv�
 Nemohl jsem mu ani poděkovat – jednak se mi nedostávalo slov, jednak jsem nechtěl, aby slyšel, jak se mi svírá hrdlo pohnutím.
 
 Loučení s paní Frýdovou netrvalo než okamžik. Chtěl jsem jí podat ruku, ale protože jsem v druhé držel nešťastnou vousatou rostlinu, vyděšeně uskočila a zavřela se v obývacím pokoji. Přes dveře jsme se domluvili na odvozu mé knihovny. Navrácení zbytku nájemného jsem nežádal, nestálo to za to, listopad byl pomalu u konce a za prosinec jsem ještě nezaplatil. Prosincové účtování mě čekalo někde jinde.
+
+</section>
+
+<section>
 
 Klíče jsem jí nechal na botníku. Než jsem za sebou zaklapl dveře od bytu, zaslechl jsem od ní slib, že se za mě bude modlit.
 

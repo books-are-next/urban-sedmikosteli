@@ -12,6 +12,10 @@ otevřít běž.
 
 — Říkanka
 
+</section>
+
+<section>
+
 Sešli jsme se v podchodu metra. Gmünd přišel sám. Na mou otázku, kde má společníka, odpověděl takto: nemá o něj strach, nejspíš vyspává po probdělé noci v hotelovém pokoji. Rozhlížel jsem se, zda neuvidím přicházet Rozetu. Schůzka byla domluvena na šestou. Gmünd vytáhl z kapsy u vesty stříbrné hodinky na řetízku, odjistil víčko a hned ho sklapl. „Můžeme jít,“ řekl. „Rozeta přijde ke Svatému Štěpánu.“
 
 Vystoupili jsme po schodech na Václavské náměstí a ocitli se v podivném divadelním světě. Nažluklá světla uličních lamp byly bóje, jejichž záři rozmazávala vodní tříšť, antracitová noc zápasila s úsvitem a v osudné šarvátce utržila krvavý šrám. Z bronzové sochy kapala voda a slévala se do špinavé stoky, stěrače taxíků neúprosně odpočítávaly poslední minuty noci. Zlé místo ve zlé době.
@@ -20,7 +24,7 @@ Gmünd měl špatnou náladu. Na náměstí schoval svou za­chmuřenou tvář 
 
 „Prosím?“
 
-„Ta onehdy slavná postava, pražský everyman. Dnes už jen postava literární.“
+„Ta onehdy slavná postava, pražský _everyman_. Dnes už jen postava literární.“
 
 „Tu neznám. Nevím, co máte na mysli.“
 
@@ -114,7 +118,7 @@ Nechal jsem se unést víc, než bylo vhodné, a také v Gmündovi se něco hn
 
 „Nic takového netvrdím. Říkáte, že Praha si na Karlov zvykla. Ono je to ale tak, že o něm vůbec neví! Není totiž vidět. Zeptejte se Pražanů na cestu ke kostelu svaté Panny Marie a svatého Karla Velikého – nedoptáte se.
 
-Na špičatých věžích nelpím absolutně. Ale každé stavbě náleží to její. Pohleďte na kostelík svatého Longina. Pozornost turistů si asi nezaslouží, je ostudně zanedbaný, ale jeho románský sloh nic nehyzdí, dokonce i ta lucerna nahoře se k němu hodí. Rotunda s vytáhlou věží by vypadala nepřátelsky, asi jako saracénský stan. Podívejte se na ty krkavce, co krouží nad střechou. Proč je jich šest? Proč létají v pravidelných kruzích, co myslíte? A co to křičí? Nezní to jako nevermore?“
+Na špičatých věžích nelpím absolutně. Ale každé stavbě náleží to její. Pohleďte na kostelík svatého Longina. Pozornost turistů si asi nezaslouží, je ostudně zanedbaný, ale jeho románský sloh nic nehyzdí, dokonce i ta lucerna nahoře se k němu hodí. Rotunda s vytáhlou věží by vypadala nepřátelsky, asi jako saracénský stan. Podívejte se na ty krkavce, co krouží nad střechou. Proč je jich šest? Proč létají v pravidelných kruzích, co myslíte? A co to křičí? Nezní to jako _nevermore?_“
 
 Pohlédl jsem, kam ukazoval. Nad rotundou svatého Longina opravdu létali nějací ptáci, sám bych je nerozeznal od havranů. Příchod dne byl teď nezvratný, jejich peří se sytou černí odráželo od světlající oblohy. Nenapadlo by mě je počítat, ale když už Gmünd vyslovil číslo, zkusil jsem to. Pět? Osm? Ba ne, přece jen jich je šest. Podivil jsem se, jak dobrý má Gmünd zrak. Plachtili kolem kulaté vížky a nevydali hlásku. Každou chvíli některý usedl na šikmou střechu a ihned vzlétl. A najednou jich nebylo šest, ale sedm! Rychle jsem je přepočítal – opravdu, sedmero krkavců. Ten sedmý musel čekat ukrytý ve zvoničce, a když jsme je začali počítat, nepozorovaně se k nim přidal. Pak odletěli. Gmünd se tvářil spokojeně, jako kouzelník, jemuž se podařil obtížný trik.
 
@@ -141,6 +145,10 @@ Pohlédl jsem, kam ukazoval. Nad rotundou svatého Longina opravdu létali něja
 „Myslím, že nějaký návrh. Podle všeho vám věří víc než policii. A když už jsme u policie…“ Ohlédl se. Přes křižovatku spěchala ženská postava v policejním stejnokroji. „Pojďme Rozetě naproti,“ řekl a já jsem pospíšil za ním. V tu chvíli se úplně rozednilo. Z Branbergerské kaple ve zdi kostela, kterou jsme spěšně minuli, se na nás ušklíbl andělíček.
 
 O Rozetině zpoždění se Gmünd nezmínil. Vypadalo to, že si je dohodli předem. Dívka vytáhla z kapsy klíče a podala je Gmündovi, ale ten zavrtěl hlavou, a tak natáhla ruku se svazkem ke mně. Nezavedla mě pak, k hlavnímu vchodu v průčelí kostela ani k postrannímu do severní lodi, ale ukázala na nenápadná dvířka až skoro u presbyteria. Přistoupil jsem k nim. Všechny tři zámky, jeden starodávný a dva bezpečnostní, odskočily hladce. Vzal jsem za kliku a opřel se do dveří. Tiše a lehce se otevřely, jakoby samy od sebe. Čekal jsem závan chladu jako z kobky, ale teplota uvnitř nebyla nižší než venku. Ucítil jsem jen nevětranou místnost a slabou vůni kadidla. Uvnitř byla tma. Ohlédl jsem se. Gmünd a Rozeta stáli nehnutě vedle sebe, jako by na něco čekali. Do očí jsem jim neviděl, ale byl jsem si jist, že dychtivě sledují mé počínání, jemuž chybí rozhodnost odvážných. Přemohl jsem úzkost a udělal několik kroků do tmy, pak ještě jeden, a tu jsem se dotkl dalších dveří. Tyhle byly větší. Vypínač jsem nenašel, ale nahmatal jsem zámek a poslepu zkusil čtvrtý klíč. Zámek povolil a dveře se pootevřely. Proniklo ke mně slabé světlo. Rozhlédl jsem se po první místnůstce – byl jsem v sakristii a Rozeta s Gmündem tam právě vešli za mnou. Prošel jsem dveřmi a ocitl se v postranní lodi kostela.
+
+</section>
+
+<section>
 
 Panovala tu ještě noc, nejosvětlenější bylo kněžiště a hlavní loď. Sivé světlo se filtrem šestihranných tabulek zalitých olovem prodíralo stěží. Velký oltář byl ozdobený květinami, ale kromě jejich světélkujících trsů jsem zde žádnou poutavou hru světel neviděl. Gmünd bude zklamaný.
 
@@ -246,10 +254,14 @@ Všimla si mého pohledu. Oči jí potemněly a uhnuly jinam. Je možné, že s
 
 Následoval jsem Gmünda k východu. Když zmizel v sakristii, otočil jsem se po Rozetě. Právě se zastavila u druhého sloupu jižní lodi, sehnula se a sebrala něco ze země.
 
+</section>
+
+<section>
+
 „Hádej, co jsem našla,“ zavolala na mě. „Někdo tu ztratil pětikorunu.“
 
 U východu minci vhodila do plechové kasičky s příspěvky na kostel.
 
-Nevermore, zakrákal krkavec nad vížkou Svatého Longina. Teď už jsem věděl, co to znamená: „Neuprchneš před sebou samým.“ Děsivý zážitek ve svatoštěpánském kostele potvrdil, že to, před čím jsem léta utíkal, se mnou zůstane po všechny mé dny.
+_Nevermore_, zakrákal krkavec nad vížkou Svatého Longina. Teď už jsem věděl, co to znamená: „Neuprchneš před sebou samým.“ Děsivý zážitek ve svatoštěpánském kostele potvrdil, že to, před čím jsem léta utíkal, se mnou zůstane po všechny mé dny.
 
 </section>

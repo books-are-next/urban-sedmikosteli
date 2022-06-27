@@ -11,6 +11,10 @@ aniž jsem dobře žil.
 
 — R. Weiner
 
+</section>
+
+<section>
+
 Na první léta své dospělosti, strávená na univerzitě, vzpomínám stejně nerad jako na dětství. Fakulta mě přijala mezi posluchače katedry historie, aniž bych pro to musel udělat víc než složit přijímací zkoušky, jež byly ostudně jednoduché. K mému hladkému vstupu na vysokou školu patrně přispěla minulost činorodého nástěnkáře, ale tím jsem si už svědomí nezatěžoval; opojení úspěchem vše přebilo. Kazilo ho jen to, že nebylo s kým je sdílet.
 
 Rodiče byli dávno po rozvodu. Otec se odstěhoval, našel si práci jinde, občas zatelefonoval. Svědomitě platil nízké alimenty. K osmnáctinám mi poslal tisíc korun a v dopise připsal, že už jsem dospělý a je na mně, abych se ozval, budu-li s ním chtít mluvit. Nevěda, jak bych takový hovor vedl, nikdy jsem to neudělal. Jak je to vlastně dlouho, co jsem ho viděl naposledy?
@@ -37,9 +41,17 @@ Viděl jsem minulost: kamenné kružby protínaly sklo v roztodivných obrazcí
 
 Týden co týden jsem s dalekohledem v batohu obcházel pražské kostely a vybíral si ty s nejbarevnějšími vitrážemi. Místům zvýrazněným v bedekrech jsem se spíše vyhýbal, Malou Stranu a Staré Město jsem přenechal turistům a zaměřil se především na Karlovo Nové Město. Učarovala mi jeho horní část, okolí kostelů svaté Kateřiny, svatého Apolináře a svatého Karla Velikého, a nikdy nezastavěné, středověkou hradbou obehnané stráně pod Karlovem, kde se donedávna pásly ovce a zrály tam hrozny, a za srdce mě vzala též ztichlá oblast kolem špitálu, uličky, kterými obchází smrt a málokdy odejde s prázdnou.
 
+</section>
+
+<section>
+
 Kromě kostelů, radnice a několika nepřístupných domovních sklepů tu nezůstal kámen na kameni, co nesmetlo josefínské pokrokářství, to zašlapala do země asanace konce devatenáctého století, mezi umělci známá jako strašlivý holocaust pražský. Musel jsem tam chodit stále znovu, hnal mě tam soucit se zmizelými domy a zvláštní nostalgie, zamilovanost do zašlých časů, jejichž dávná současnost mi byla osudem odepřena.
 
 Prohlubující se zájem o středověk se na mých akademických výsledcích příliš neprojevoval. Zajímal mě všední život měšťanů, obyčejné věci jako přijímání svátostí oltářních, výchova dětí, možnost cestovat, nákupy šatstva a potravin, vztahy mezi sousedy i soužití s domácími zvířaty. V kronikách jsem pátral po zmínkách o tom, jak tehdejší lidé cítili krásu a jak ošklivost, jak chápali své bytí na světě a jak se cítili ve svém městě, na svém rynku a ve své ulici, v jednopatrových dřevěných a kamenných domech s příkrými lomenicemi, tenkými komíny a jako rukáv úzkými zahrádkami.
+
+</section>
+
+<section>
 
 Se svým způsobem studia jsem neměl úspěch. U zkoušek jsem si vedl špatně, patřil jsem k těm, kteří se zuby nehty snaží neodbýt uloženou práci, ale protože je zajímá něco jiného, vše se jim bortí pod rukama a pro svá pochybení nenacházejí omluvu. Nebyl jsem s to udržet v paměti kanonická data a události, jež s nimi histo­riografie spojuje, neviděl jsem v tom žádný smysl. V tom, co nám předkládali jako dějiny, jsem nespatřoval víc než výčty politických rozhodnutí a jejich důsledků, soupisy panovnických rodů a statistiky válek, které s jinými rody vedly. Já hledal historii jinou, živou; historii – časoprostor, v němž bych se pohyboval se stejnou jistotou jako ve svém každodenním bytí. Co s ním mají společného jacísi králové, jakési bitvy? Co mají společného se mnou? Ano, právě sem mne vedl můj zájem. Hledal jsem historiografii, jejímž předmětem zkoumání budou ti, kteří jako já nemají jméno. Hledal jsem dějiny sebe sama, bezejmenného a nedobrovolného příslušníka lidského rodu.
 

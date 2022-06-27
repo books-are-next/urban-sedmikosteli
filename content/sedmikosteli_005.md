@@ -1,13 +1,14 @@
 ---
 title: ''
+hiddenTitle: true
 contentType: prose
 ---
 
 <section>
 
-Všechny osoby v následujícím příběhu  
+_Všechny osoby v následujícím příběhu  
 jsou až na jednu smyšlené.  
 Naproti tomu všecky budovy, až na jednu, jsou pravé.  
-Instituce jsou bez výjimky románové.
+Instituce jsou bez výjimky románové._
 
 </section>

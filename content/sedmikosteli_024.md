@@ -13,6 +13,10 @@ ke katedrále vědomí záštity?
 
 — T. S. Eliot
 
+</section>
+
+<section>
+
 Menšili jsme se pod titánskou klenbou karlovského chrámu a v úžasu zakláněli hlavy. Gmünd držel v jedné ruce klobouk a v druhé hůlku, já jsem si dýchal do dlaní, protože v kostele bylo téměř mrazivo. Vysokými okny k nám pronikal denní jas, od našich úst stoupaly ke hvězdám na stropě obláčky páry. Rytířovo vytržení bylo nelíčené, v ničem si nezadalo s mým, přestože novou zlatomodrou malbu a nové nasvětlení viděl už několikrát. Tentokrát zákonem stanovený doprovod chyběl; najednou jsem stačil já.
 
 V kostele Panny Marie a Karla Velikého jsem v posledních letech nebyl, a nyní jsem si připadal, jako bych se vrátil daleko do minulosti, kdy byl úplně nový. Kde bývala tma, je dnes světlo, kde se odlupovala omítka a stoupala plíseň, jsou dnes pevné stěny zářící královským karmínem a zlatem. Zlatý vzor na červeném podkladu Gmünd ponechal, protože odpovídá gotickému zdobení svatyní, ale hvězdné nebe vetkané mezi klenbová žebra zdobilo kostel poprvé. Obrovitá osmicípá hvězdice stropu je z šestnáctého století, kdy noční oblohy už nebyly v módě. Od staré, původně navržené a nikdy nerealizované klenby se tato příliš neliší, snad jen svou geo­metrickou složitostí a hlavně udivující mělkostí, vzbuzující dojem, že celá střecha se lehoučce vznáší na tenkých nosnících a opěrách. Gmündovo gesto přibrousilo karlovský briliant do oslepující krásy. Při výzdobě se výjimečně zřekl svého puristického vkusu, který už proklel mnohé stavitele renesance, baroka a klasicismu a alespoň obrazně rozmetal jejich nevkusné haluzny do všech stran.

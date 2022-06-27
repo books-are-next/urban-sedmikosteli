@@ -10,6 +10,10 @@ průtrži srázné sametové klenby černa.
 
 — R. Weiner
 
+</section>
+
+<section>
+
 Policie zůstala věrna svým osvědčeným metodám a brzy si vyhlédla hlavního podezřelého. Kdyby mi nebylo do pláče, smál bych se, až bych se za břicho popadal, neboť tím podezřelým byl… inženýr Záhir. Zprvu jsem to zavrhl jako čirý nesmysl, a potom jsem musel uznat, že to přece jen jistou, byť chaboučkou logiku má: vzpomněl jsem si na nedávný rozhovor ve Václavské pasáži. Záhir mi přece řekl, že jsou s Barnabášem rivalové. Že by i jiným přiznal víc, než měl v úmyslu? V poslední době dost pil a mohl se prozradit. Ano – mohlo to tak být! Co když stejnou nenávist jako k Barnabášovi choval i k Řehořovi a Pendelmanové? Co když je povraždil všechny tři, zatímco mu chromá noha – skutečně těžce pochroumaná, vždyť jsme to viděli na vlastní oči – poskytovala stoprocentní alibi? Oběť pokusu o vraždu je přece nejméně nápadná! Zmrzačení si způsobil sám, fanatický soudce hříchů svých i cizích je něčeho takového jistě schopen, a pověsit se za nohu do věže Svatého Apolináře chtělo jen náležitou dávku sebenenávisti podpořené obratností.
 
 Jako z udělání odjel Záhir na avizovanou služební cestu do Lublaně; měl svůj vůz tak rád, že oželel pohodlí letadla. Měl se vrátit do deseti dnů. Dostali jsme příkaz o podezření nemluvit. Podnikat předběžné kroky k jeho zadržení nám také zapověděli, nápad obstavit mu bankovní konto shledal náčelník jako pitomý. Panovaly obavy, aby se Záhir nevyplašil a nezůstal v zahraničí.
@@ -19,6 +23,10 @@ Najednou si byli všichni jisti, že vrahem je on, ve skupině vyšetřovatelů
 Kvůli podezření a chystanému obvinění inženýra Záhira zapadl můj návrh na porovnání dlažebních kostek z nazelenalé žuly. Nesporně pocházely z jednoho místa, všechny stejně vybarvené, stejně opracované a stejně zlověstné. Mínil jsem obejít vedení a přesvědčit Truga, aby chemická zkoumání kamene provedl sám. Hodlal jsem ho bez skrupulí vydírat: o jeho pokusech se zvířaty jsem nyní už tušil své a byl jsem si jist, že toho jednorohého koně by úřadům vysvětlil jen stěží.
 
 Přišlo pondělí po zhoubném týdnu, kdy byl s osudem jámy v Ress­­lově ulici vyřešen i osud sklepení pod Karlovým náměstím. Plukovníku Olejářovi jsem nesměl na oči, Gmünd mě nepotřeboval a vypadal schlípleji než dřív – jako by na jeho bezvadném, vyhlazeném zevnějšku pohaslo nějaké světlo, jako by popraskala vrstva tenkého žíhaného skla, kterým byl doposud chráněn. V hotelu skoro nenocoval. Ani Prunslíka jsem neviděl už řadu dní, a přece jsem po večerech neměl pocit, že jsem v rozlehlých pokojích hotelu Bouvines sám. Chodbami se linula těžká nasládlá vůně, z níž se mi točila hlava a která mě lechtala v krku. Neuměl jsem ji určit, ale když jsem ji jednou z rána opět ucítil v salonu, řekl jsem si, že ten mrákotný odér nemůže vydávat nic než pálené opium. Zdálo se, že vůně vychází z Prunslíkova pokoje. Byl jsem tak osamělý, že jsem se přemohl a několikrát zaklepal na jeho dveře. Nikdo mi nikdy neodpověděl, nikdy se neozvalo vůbec nic – ani tiché hlasy, ani podezřelý šramot, ani delirický smích. Vzít za kliku jsem se neodvážil.
+
+</section>
+
+<section>
 
 V ten čas jsem prahl po dalším rozhovoru s Rozetou, jíž jsem se toužil vypovídat o svém nedorozumění s policií a pokaženém přátelství s Matyášem Gmündem. Dvakrát jsem ji zahlédl u snídaně, ale vždycky se zvedla k odchodu, jakmile mě spatřila ve dveřích, ani pozdravit jsem nestihl. Potom ke společným snídaním přestala chodit. Pokoušel jsem to navléct tak, abych ji potkal jako náhodou, vstával jsem před šestou a vyčkával na liduprázdných chodbách toho podivuhodného hotelu, na její dveře jsem však nezaklepal. Nedovolil mi to pocit, že se mi záměrně vyhýbá.
 
@@ -30,7 +38,7 @@ Neměl jsem se unáhlit, vždycky je lépe nechat si ty nejtajnější myšlenky
 
 Netřesk viděl, že mu víc neřeknu, a rázem ke mně ochladl. Podíval se na hodinky a zabubnoval prsty na desku stolu. Řekl, že má schůzku v Klubu historiků, a vyzval mě, abych ho doprovodil. Pochopil jsem to a zvedl jsem se od stolu. Vyšel jsem s ním před dům, cestou po schodech jsme mlčeli, rozloučení bylo rozpačité. Vydal jsem se opačným směrem než on, přestože jsem neměl žádný určitý cíl.
 
-Vzduch byl plný rozptýleného světla, jež bodalo do sítnice a znemožňovalo vidět jasně. Se skloněnou hlavou a zrakem upřeným na chodník jsem prošel Václavskou ulicí a vynořil se na Moráni, odkud mě jako novodobého poutníka nohy samy donesly k emauzskému klášteru. Jakmile jsem před ním stanul, vybavila se mi pasáž z Lukášova evangelia, podle níž dostal klášter v roce 1372 své jméno. S oblibou se u ní pozastavoval farář Florian při svých kázáních. Téhož dne se dva učedníci vydali do Emauz, vsi na tři hodiny vzdálené od Jeruzaléma, a rozmlouvali o tom, co se událo. A jak spolu hovořili, připojil se k nim Ježíš a kráčel do Emauz s nimi. Přijali ho, avšak něco v jejich očích jim nedovolilo jej poznat.
+Vzduch byl plný rozptýleného světla, jež bodalo do sítnice a znemožňovalo vidět jasně. Se skloněnou hlavou a zrakem upřeným na chodník jsem prošel Václavskou ulicí a vynořil se na Moráni, odkud mě jako novodobého poutníka nohy samy donesly k emauzskému klášteru. Jakmile jsem před ním stanul, vybavila se mi pasáž z Lukášova evangelia, podle níž dostal klášter v roce 1372 své jméno. S oblibou se u ní pozastavoval farář Florian při svých kázáních. _Téhož dne se dva učedníci vydali do Emauz, vsi na tři hodiny vzdálené od Jeruzaléma, a rozmlouvali o tom, co se událo. A jak spolu hovořili, připojil se k nim Ježíš a kráčel do Emauz s nimi. Přijali ho, avšak něco v jejich očích jim nedovolilo jej poznat._
 
 Mimoděk jsem se otočil, přesvědčen, že za mnou někdo stojí. Široko daleko nebylo vidět živou duši. Kmeny kaštanů se tenčily v úbělové mlze a na zlopověstných kamenných schodech pod kostelem se k sobě choulili dva prokřehlí holubi.
 

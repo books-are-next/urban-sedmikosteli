@@ -11,6 +11,10 @@ Vezměte kámen po kameni a omyjte je!
 
 — T. S. Eliot
 
+</section>
+
+<section>
+
 Takovou barvu růží jsem doposud neviděl. Barvu čerstvé krve, husté, pomalu proudící tělní mízy s třpytem černé perleti. Květy byly mladé, poupata po rozvití stísněna v trsech v porcelánových vázách, z nichž jedna stála na stolku, druhá na sekretáři a třetí na okně, a za tím oknem byla tma. Pokoj plný květin – to jistě kvůli mně. Nach aster a rumělka jiřin smísené v dózách z granátového skla, na zemi u dveří květináč z pálené hlíny, v něm vysoký africký ibišek. Purpurových karafiátů nepočítaně, sem tam se mezi nimi pýřil tulipán. Instinktivně jsem pohlédl do výklenku, kde se kdysi zjevil fantom čínské vázy s drakem a richardiemi. Teď tu na malém skleněném podstavci leželo anthurium, utržené a pohozené s nedbalou rafinovaností; žlutý zobáček v rudém srdci už uvadal.
 
 Šarlatový pokoj, vyzdobený pro mé potěšení. Jak si mě můžou předcházet s takovou bezostyšností? A co je to tamhle…?
@@ -257,7 +261,7 @@ Právě od vás vím, že to celé byla nešťastná náhoda a hloupé nedoroz
 
 Můj předek byl popraven, císař Karel se usoužil nad svou ukvapeností, život šel dál. Za hlavní kostel, v jehož podkroví vzniknou nové rituální symboly a který dá jméno novému bratrstvu, zvolili tři zbývající zemané kapli na Dobytčím trhu. Za vlády Václava IV. vzniklo bratrstvo Božího těla, aby bránilo novoměstské chrámy a trestalo toho, kdo na ně vztáhne ruku.
 
-Oko za oko, zub za zub, ruku za ruku, nohu za nohu, spáleninu za spáleninu, modřinu za modřinu, jizvu za jizvu. Je nejvyšší čas, aby se lidé vrátili ke smlouvě, již pro ně uzavřel Mojžíš s Hospodinem. Není lepší, zemře-li pár hloupých, neschopných a nemorálních architektů a úředníků, než abychom zahynuli všichni než abychom se nechali zabít barbary třímajícími místo uzdy volant; než abychom se nechali udusit kouřem v našem vlastním městě? Řekněte – není to lepší?“
+_Oko za oko, zub za zub, ruku za ruku, nohu za nohu, spáleninu za spáleninu, modřinu za modřinu, jizvu za jizvu._ Je nejvyšší čas, aby se lidé vrátili ke smlouvě, již pro ně uzavřel Mojžíš s Hospodinem. Není lepší, zemře-li pár hloupých, neschopných a nemorálních architektů a úředníků, než abychom zahynuli všichni než abychom se nechali zabít barbary třímajícími místo uzdy volant; než abychom se nechali udusit kouřem v našem vlastním městě? Řekněte – není to lepší?“
 
 Domluvil a čekal na odpověď.
 

@@ -10,6 +10,10 @@ není hroznější tebe
 
 — R. Weiner
 
+</section>
+
+<section>
+
 Večer jsem usnul na pohovce tak, jak jsem byl, a probudil se až ráno. V noci mi někdo přinesl do pokoje zavazadla, a tak jsem se mohl převléknout. V koupelně, o niž jsem se dělil s Prunslíkem, jsem se osprchoval studenou vodou. V salonu na konferenčním stolku jsem našel vzkaz, abych přišel k snídani do hotelové haly.
 
 V Bouvines se sice nevařilo, ale snídaně tu podávali královské. Z tří prostřených stolů byly dva neobsazené, u posledního seděl můj hostitel v bílé košili a šarlatové vestě, vedle něj Rozeta a Prunslík. Rozeta byla v civilu – v bílé halence a hnědé sukni –, Prunslík jako obvykle v modrošedém. Na schodišti jsem zaváhal, zda vykročit jejich směrem, ale Gmünd mě zahlédl a se vstřícným úsměvem pokynul, ať si k nim přisednu.
@@ -25,6 +29,10 @@ Vložil se mezi nás Gmünd, který sice nevěděl, o čem je řeč, ale vytuš
 Gmünd mi pak vystavil šek na částku několikanásobně vyšší, než jakou bych si za své služby dovolil říct. Věděl jsem, že v tom jsou zahrnuty také peníze za mlčení, ale apanáž jsem s vděkem přijal. Neodmítl jsem, ani když mi Prunslík nabídl sklenici portského. Když mi naléval, tmavorudě se pěnilo jako vychrlená krev. Připil jsem všem třem na zdraví a obzvlášť záležet jsem si dal na malé úklonce k Rozetě. Nepřítomně se usmála, ale v očích, které se mému pohledu vyhnuly, převládal smutek. Víno bylo opojné, jeho moc konejšit rozrušenou mysl velká.
 
 Olejář měl špatný den; vypadal zbědovaně, dlouhými trhavými kroky rázoval sem a tam po kanceláři, z jednoho ucha mu koukal bílý kapesník a u druhého držel telefonní sluchátko. Aparát nosil při přecházení s sebou. Dožadoval se nějakých výsledků z laboratoře a podle všeho se hádal s Trugem, který se neměl k jejich vyhodnocení. Teprve po dvou dalších telefonátech a havarijním výplachu ucha – z toho pohledu se mi udělalo slabo – byl schopen vzít mě na vědomí. Když si všiml, jak ho napjatě pozoruji z koženkového křesla v rohu místnosti, zatvářil se překvapeně, jako by zapomněl, že mě před půl hodinou přijal. Beze slova se otočil ke stolu, něco odtamtud vzal a donesl mi to. Byla to fotografie, čtvrtá do série, kterou mi ukázal posledně. Výjev, přestože byl rozmazaný, mě nenechal na pochybách, co mám před očima.
+
+</section>
+
+<section>
 
 Stejné špinavé místo jako na předchozích fotografiích, se záběrem posunutým prudce doprava, jinak nasvětleným a lépe zaostřeným – ano, víc než dostatečně. V popředí leželo tělo, evidentně zcela bez života. Bylo to tělo mužské. Řehořovi nepatřilo, protože mělo nohy. Trčely dopředu, šikmo k fotografovi, takže trup s hlavou ubíhal dozadu. Na levé straně fotografie byly zřetelně vidět tenisky a oprané kalhoty. Blízko musel být umístěn světelný zdroj, ale do záběru se nevešel. Podle jeho bledosti a sklonu, podle toho, jak nízko u země zářil a jak úzce byl zacílen, jsme usoudili na automobilový reflektor. Tvář mrtvého se téměř ztrácela mimo jeho dosah v šerém pozadí snímku. I tak se nedalo přehlédnout, že je obličej velmi mladý.
 
