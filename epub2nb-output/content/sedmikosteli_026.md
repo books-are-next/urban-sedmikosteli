@@ -12,6 +12,10 @@ Lidé se málo učí z cizí zkušenosti.
 
 — T. S. Eliot
 
+</section>
+
+<section>
+
 Opíral se o rám dveří v předsíni kostela, ani venku, ani uvnitř, a kouřil. Než jsem vstoupil, otevřel mi dveře a vyhodil doutník do sněhu. Měl jsem dojem, že se tváří nezvykle kajícně.
 
 „Jsem rád, že jste se včera nenechal vyděsit a přišel jste znovu,“ řekl, když jsme vstoupili do karlovského chrámu a zavřeli za sebou. „Omlouvám se, taková ztráta sebeovládání je ostudná a máte plné právo mě odsoudit.“

@@ -4,20 +4,17 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
   title: Sedmikostelí
   identifier: urn:uuid:f91701f3-2ccd-40fb-bd8b-e92f714c6c4c
   author: Miloš Urban
   publisher: Městská knihovna v Praze
   modified: '2021-11-03T19:14:21.917Z'
-  languageCode: cs
   publisherShort: mkp
   edition: beletrie
   contentType: prose
 readingOrder:
-  - sedmikosteli_001.html
   - promo.html
-  - sedmikosteli_003.html
-  - sedmikosteli_004.html
   - sedmikosteli_005.html
   - sedmikosteli_006.html
   - sedmikosteli_007.html
@@ -46,10 +43,16 @@ readingOrder:
   - sedmikosteli_030.html
   - sedmikosteli_031.html
   - sedmikosteli_032.html
-  - sedmikosteli_033.html
+  - colophon.html
 tocBase:
   - id: section-1
     children:
+      - link: sedmikosteli_005.html
+        title: Slovo autora
+        hiddenTitle: true
+      - link: sedmikosteli_006.html
+        title: Citáty
+        hiddenTitle: true
       - link: sedmikosteli_007.html
         title: I
       - link: sedmikosteli_008.html
@@ -100,7 +103,11 @@ tocBase:
         title: XXIV
       - link: sedmikosteli_031.html
         title: EPILOG
+      - link: sedmikosteli_032.html
+        title: Poděkování
+        hiddenTitle: true
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

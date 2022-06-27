@@ -12,11 +12,15 @@ S vámi má touha jediná.
 
 — R. Weiner
 
+</section>
+
+<section>
+
 Jako kdyby mě vedli na popravu – takové to bylo. Rytíř z Lübecku šel po mém boku a mlčel. Vedl mě na neviditelných okovech. Prunslík se držel za námi a pohvizdoval si. Možná hlídal každý můj pohyb, a možná by vůbec nereagoval, kdybych se pokusil o útěk.
 
 Měsíc se pohádal s nocí, ač měly slavit úplněk; tma se černala bezedněji než všechny předchozí. Nepoznával jsem známé ulice, z luceren svítila sotva každá pátá. Zakopával jsem o dlažební kostky, které se všude válely, a dvakrát jsem div neupadl, kdyby mě Gmünd včas nezachytil. Sám se nebezpečným místům s obdivuhodnou jistotou vyhýbal, jako by věděl, kde je očekávat. Nikoho jsme nepotkali, neprojel kolem nás jediný automobil. Ani by nemohl – silnice už nebyly silnicemi. Uprostřed jedné z ulic, snad Kateřinské, stála černá mohyla, vyšší než dospělý člověk, a páchla na dálku spáleninou. Z jejího rozpáleného vršku se kouřilo, stěnami obloženými hlínou, dřevem a listím sálal oranžový žár. Neznal jsem její účel a neodvážil jsem se zeptat, ale takhle nějak jsem si vždycky představoval milíř. Ze štiplavého čmoudu mi slzely oči. Naštěstí foukal vítr, který ho rychle odnášel. Jednou jsem z dálky zaslechl skřípění brzd, potom se za setmělým činžákem, který jsme míjeli, rozhoukala siréna sanitky a ihned umlkla. Když jsme šli kolem policejního velitelství, zakřupalo nám pod podrážkami sklo. Spousty skla. Vzhlédl jsem. V budově nesvítila jediná zářivka. Jen na zdi u hlavního vchodu, jehož dveře zely k mému překvapení dokořán, plála pochodeň. Cesta na Karlov nám netrvala ani půl hodiny.
 
-Magistrála byla tichá, nikde známky pohybu; ani na chodnících jsme nepotkali živáčka. Veřejné osvětlení tu nefungovalo – nebo je někdo vypnul. Svítilo se jen v některých oknech činžovních domů, dole na ulici byla tma. Když jsem natáhl ruku, rozeznal jsem její bělost a obrysy, ale vše, co bylo dál, tonulo v chladné černi. Vysoko nad námi z ní vystupovaly tři kopule chrámu. Na pozadí nazelenalé záře města pod kopcem se vyjímaly jak vystřižené ze zlaceného papíru, suvenýr z Orientu, Istanbul by night. Kostel se už brzy dočká své původní střechy, tří stanových špiček třikrát vyšších než obvodní zdivo. Bude je vidět až z Hradčan.
+Magistrála byla tichá, nikde známky pohybu; ani na chodnících jsme nepotkali živáčka. Veřejné osvětlení tu nefungovalo – nebo je někdo vypnul. Svítilo se jen v některých oknech činžovních domů, dole na ulici byla tma. Když jsem natáhl ruku, rozeznal jsem její bělost a obrysy, ale vše, co bylo dál, tonulo v chladné černi. Vysoko nad námi z ní vystupovaly tři kopule chrámu. Na pozadí nazelenalé záře města pod kopcem se vyjímaly jak vystřižené ze zlaceného papíru, suvenýr z Orientu, _Istanbul by night_. Kostel se už brzy dočká své původní střechy, tří stanových špiček třikrát vyšších než obvodní zdivo. Bude je vidět až z Hradčan.
 
 Stáli tu nějací lidé, podupávali v mrazivém vzduchu jako v očekávání. Jejich bledé tváře slabě světélkovaly, při každém pohybu mizely a znovu se zjevovaly. Bylo jich hodně; zdálo se, že čekají právě na nás. Někdo přistoupil ke Gmündovi, vzal ho za loket a odtáhl ho stranou. Skoro nic jsem neviděl, zaslechl jsem jen šepot, v němž se ozývaly tóny nesouhlasu. Hovořil tlumený ženský hlas. Žena pak udělala krok směrem ke mně – aspoň se mi to tak jevilo –, ale zastínila ji rozložitá silueta s kloboukem. Znovu vzrušené hlasy, pak ji zavalitý stín nechal jít.
 
@@ -35,6 +39,10 @@ Pohladila mě po tváři. „Já vím, žes za to nemohl. Kdyby ano, zemřel b
 Do zkřehlé dlaně mi z pažby pistole sálalo teplo Rozetina těla; schoval jsem zbraň do náprsní kapsy. Netlačila. Hřála jako darovaný medailon. Dívka odvrátila tvář a zadívala se k potemnělému Nuselskému mostu. Tu jí tvář osvítil záblesk reflektorů. Vlídně se usmívala. Přes hlavu měla přehozenou kápi mnišské kutny. Háv zdobil na prsou emblém vyšitý stříbrnou nití: obruč s kladivem.
 
 Světla se probíjela hustou tmou, dva bílé kužely proměnily ústí mostu v divadelní scénu. Stačilo pár vteřin, abych přehlédl ty, co se shromáždili na jevišti. V půlkruhu tu stálo na čtyřicet anonymních postav, oděných podobně jako Rozeta, všichni měli na hlavách kápě, ale některým bylo vidět na obličej. Poznal jsem Gmünda, největšího ze shromážděných spiklenců. Hledal jsem rychlým pohledem jeho opak, ale nikde jsem ho neviděl. Zahlédl jsem však profesora Netřeska, který nesledoval blížící se vůz, ale posmutněle se usmíval a upíral zrak ke kostelu, jako by jeho krátkozraké oči hledaly ve stínech mezi kamennými opěráky svého nejnadanějšího žáka. Jeho úsměv byl provinilý a nepatřil k těm, jaké vídáme na nemladých tvářích.
+
+</section>
+
+<section>
 
 O kus dál se ze záhybů kapuce mračila Trugova tvář, počerná a zavilá, s rysy zrůzněnými vztekem. Dívala se přímo na mě. Když si doktor všiml mého pohledu a krátkého zamávání, odvrátil zrak, odplivl si a vydoloval ruku z širokého rukávu, aby zkontroloval čas na hodinkách.
 

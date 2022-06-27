@@ -10,6 +10,10 @@ když se jich dotknu, krvácejí.
 
 — T. S. Eliot
 
+</section>
+
+<section>
+
 Potíže se jménem začaly po příchodu do školy. Děti na ně zpočátku reagovaly jako na jiná jména, posměšky se začaly sypat poté, co je poprvé vyslovili jejich rodiče. Ale tehdy to ještě šlo. Od vyšších tříd pak, kdy se děti začaly rozkoukávat a objevily v sobě schopnost a zálibu ubližovat, nastalo pravé školní peklo. Jakýkoli důvěrný vztah mezi dětmi byl nepřípustný, nosila se jen nenávist a pohrdání; věčně s někým nemluvit a někoho pomlouvat patřilo k bontonu žáka. Přátelství škola znemožňovala, kdo se odchýlil od nepsaných pravidel, sklidil posměch a byl vykázán na samý okraj společenství.
 
 Narodil jsem se dlouho poté, co zemřel Hitler a Stalin, ale Mao tehdy ještě žil. Rodiče mě nedali pokřtít, jméno, jež jsem dostal, jméno slabochů a smolařů, bylo jen jedno, bylo samo – docela jako já. Stokrát jsem zatoužil zvolit jiné, ale nebylo to možné, ani sourozence si člověk jen tak nenajde. Přátele ano, ale kde je vzít?
@@ -37,6 +41,10 @@ Nástěnky s příběhem či „komiksy”, jak se jim žertem říkalo, mě br
 Ale čím více jsem studoval z knih, tím méně jsem stál o přímá svědectví minulosti, jak jsem je přijímal z kamene. Snad proto přišla ta zrada. Dnes, s pohledem upřeným už jenom zpátky, pro to mám vysvětlení: v jinošských letech jsem se vzdálil sám sobě, své cestě určené osudem. Sešel jsem z ní a osud zasáhl, aby mě na ni vrátil. Ne hned, až po čase, abych tak snadno neprohlédl jeho záměr.
 
 Netřesk mě zradil takto: oženil se se svou někdejší studentkou, dívkou o tři roky starší než já a o čtyřicet let mladší než on. Nemožný svazek, a přece jej uskutečnili, navzdory mému zoufalství. Aby unikl maloměstským posměváčkům a mým němým výčitkám, odstěhoval se s mladou ženou do Prahy a já jsem byl opět v celém okresním městě sám. Dostali jsme jiného dějepisáře, kněze, který se v padesátých letech zřekl své minulosti, aby mohl vyučovat dějiny. Byl odborníkem na dělnické hnutí, jiná historie ho málo zajímala.
+
+</section>
+
+<section>
 
 V zimě posledního ročníku jsem se přihlásil k přijímacím zkouškám na univerzitu. V té době jsem ve školním respiriu uspořádal obrazovou kroniku školství na Mladoboleslavsku a doprovodil ji bohatým dokumentačním aparátem, dlouho shromažďovaným po archivech. Školní inspektor ji doporučil všem středním vzdělávacím ústavům v kraji a naše gymnázium se až do letních prázdnin stalo poutním místem. Měl jsem vyhráno: maturoval jsem s tak mimořádnými výsledky, že jsem si této zkoušky musel přestat vážit, a měsíc na to mě přijali ke studiu historie na pražské filozofii. Strašně jsem se styděl, ale svého úspěchu jsem mínil využít co nejlépe.
 

@@ -1,12 +1,12 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Sedmikostelí",
       "identifier": "urn:uuid:f91701f3-2ccd-40fb-bd8b-e92f714c6c4c",
       "author": "Miloš Urban",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-03T19:14:21.917Z",
-      "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie",
       "contentType": "prose"
@@ -21,11 +21,13 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
-      "brAfter": "",
+      "brBefore": "MLP-text-bez1radku MLP-text-bez1radku--0-12 ",
+      "brAfter": "MLP-text-bez1radku--12-0",
       "blockquote": "",
       "figure": "",
-      "em": "",
+      "centered": "",
+      "verse": "",
+      "em": "MLP-venovani MLP-znak-kurziva-11b ",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -34,14 +36,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "sedmikosteli_001.md",
             "xhtml": "sedmikosteli_001.xhtml",
             "id": 0,
-            "role": "chapter",
-            "numberedChildren": false,
+            "role": "cover",
             "inToc": true,
+            "listType": "plain",
             "children": []
           },
           {
@@ -49,26 +52,26 @@
             "xhtml": "sedmikosteli_002.xhtml",
             "id": 1,
             "role": "promo",
-            "numberedChildren": false,
             "inToc": true,
+            "listType": "plain",
             "children": []
           },
           {
             "filename": "sedmikosteli_003.md",
             "xhtml": "sedmikosteli_003.xhtml",
             "id": 2,
-            "role": "chapter",
-            "numberedChildren": false,
+            "role": "colophon",
             "inToc": true,
+            "listType": "plain",
             "children": []
           },
           {
             "filename": "sedmikosteli_004.md",
             "xhtml": "sedmikosteli_004.xhtml",
             "id": 3,
-            "role": "chapter",
-            "numberedChildren": false,
+            "role": "colophon",
             "inToc": true,
+            "listType": "plain",
             "children": []
           },
           {
@@ -76,27 +79,31 @@
             "xhtml": "sedmikosteli_005.xhtml",
             "id": 4,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "listType": "plain",
+            "children": [],
+            "title": "Slovo autora",
+            "hiddenTitle": true
           },
           {
             "filename": "sedmikosteli_006.md",
             "xhtml": "sedmikosteli_006.xhtml",
             "id": 5,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "listType": "plain",
+            "children": [],
+            "title": "Citáty",
+            "hiddenTitle": true
           },
           {
             "filename": "sedmikosteli_007.md",
             "xhtml": "sedmikosteli_007.xhtml",
             "id": 6,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "I",
+            "listType": "plain",
             "children": []
           },
           {
@@ -104,9 +111,9 @@
             "xhtml": "sedmikosteli_008.xhtml",
             "id": 7,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "II",
+            "listType": "plain",
             "children": []
           },
           {
@@ -114,9 +121,9 @@
             "xhtml": "sedmikosteli_009.xhtml",
             "id": 8,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "III",
+            "listType": "plain",
             "children": []
           },
           {
@@ -124,9 +131,9 @@
             "xhtml": "sedmikosteli_010.xhtml",
             "id": 9,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "IV",
+            "listType": "plain",
             "children": []
           },
           {
@@ -134,9 +141,9 @@
             "xhtml": "sedmikosteli_011.xhtml",
             "id": 10,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "V",
+            "listType": "plain",
             "children": []
           },
           {
@@ -144,9 +151,9 @@
             "xhtml": "sedmikosteli_012.xhtml",
             "id": 11,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "VI",
+            "listType": "plain",
             "children": []
           },
           {
@@ -154,9 +161,9 @@
             "xhtml": "sedmikosteli_013.xhtml",
             "id": 12,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "VII",
+            "listType": "plain",
             "children": []
           },
           {
@@ -164,9 +171,9 @@
             "xhtml": "sedmikosteli_014.xhtml",
             "id": 13,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "VIII",
+            "listType": "plain",
             "children": []
           },
           {
@@ -174,9 +181,9 @@
             "xhtml": "sedmikosteli_015.xhtml",
             "id": 14,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "IX",
+            "listType": "plain",
             "children": []
           },
           {
@@ -184,9 +191,9 @@
             "xhtml": "sedmikosteli_016.xhtml",
             "id": 15,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "X",
+            "listType": "plain",
             "children": []
           },
           {
@@ -194,9 +201,9 @@
             "xhtml": "sedmikosteli_017.xhtml",
             "id": 16,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XI",
+            "listType": "plain",
             "children": []
           },
           {
@@ -204,9 +211,9 @@
             "xhtml": "sedmikosteli_018.xhtml",
             "id": 17,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XII",
+            "listType": "plain",
             "children": []
           },
           {
@@ -214,9 +221,9 @@
             "xhtml": "sedmikosteli_019.xhtml",
             "id": 18,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XIII",
+            "listType": "plain",
             "children": []
           },
           {
@@ -224,9 +231,9 @@
             "xhtml": "sedmikosteli_020.xhtml",
             "id": 19,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XIV",
+            "listType": "plain",
             "children": []
           },
           {
@@ -234,9 +241,9 @@
             "xhtml": "sedmikosteli_021.xhtml",
             "id": 20,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XV",
+            "listType": "plain",
             "children": []
           },
           {
@@ -244,9 +251,9 @@
             "xhtml": "sedmikosteli_022.xhtml",
             "id": 21,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XVI",
+            "listType": "plain",
             "children": []
           },
           {
@@ -254,9 +261,9 @@
             "xhtml": "sedmikosteli_023.xhtml",
             "id": 22,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XVII",
+            "listType": "plain",
             "children": []
           },
           {
@@ -264,9 +271,9 @@
             "xhtml": "sedmikosteli_024.xhtml",
             "id": 23,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XVIII",
+            "listType": "plain",
             "children": []
           },
           {
@@ -274,9 +281,9 @@
             "xhtml": "sedmikosteli_025.xhtml",
             "id": 24,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XIX",
+            "listType": "plain",
             "children": []
           },
           {
@@ -284,9 +291,9 @@
             "xhtml": "sedmikosteli_026.xhtml",
             "id": 25,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XX",
+            "listType": "plain",
             "children": []
           },
           {
@@ -294,9 +301,9 @@
             "xhtml": "sedmikosteli_027.xhtml",
             "id": 26,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XXI",
+            "listType": "plain",
             "children": []
           },
           {
@@ -304,9 +311,9 @@
             "xhtml": "sedmikosteli_028.xhtml",
             "id": 27,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XXII",
+            "listType": "plain",
             "children": []
           },
           {
@@ -314,9 +321,9 @@
             "xhtml": "sedmikosteli_029.xhtml",
             "id": 28,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XXIII",
+            "listType": "plain",
             "children": []
           },
           {
@@ -324,9 +331,9 @@
             "xhtml": "sedmikosteli_030.xhtml",
             "id": 29,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "XXIV",
+            "listType": "plain",
             "children": []
           },
           {
@@ -334,9 +341,9 @@
             "xhtml": "sedmikosteli_031.xhtml",
             "id": 30,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
             "title": "EPILOG",
+            "listType": "plain",
             "children": []
           },
           {
@@ -344,17 +351,19 @@
             "xhtml": "sedmikosteli_032.xhtml",
             "id": 31,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "listType": "plain",
+            "children": [],
+            "title": "Poděkování",
+            "hiddenTitle": true
           },
           {
             "filename": "sedmikosteli_033.md",
             "xhtml": "sedmikosteli_033.xhtml",
             "id": 32,
-            "role": "chapter",
-            "numberedChildren": false,
+            "role": "colophon",
             "inToc": true,
+            "listType": "plain",
             "children": []
           }
         ]
@@ -634,6 +643,6 @@
       "user": "books-are-next",
       "repo": "urban-sedmikosteli"
     },
-    "generatedAt": 1655979940565
+    "generatedAt": 1656341261613
   }
 }

@@ -10,13 +10,25 @@ Den jako den. To zdání je pouhé,
 
 — O. Mikulášek
 
+</section>
+
+<section>
+
 Mluvím o nynější době. Ví Bůh, jak tomu bylo dřív. On zná mou úlohu v celé té věci, všechny mé slabosti, má nepatrnost mu není cizí. Dovede rozlišit bílé od černého, dobro od zla, pravdu od chiméry. Já to nedovedu, nikdy jsem o sobě něco takového netvrdil. Nechtěl jsem s tím mít co společného, to všechno oni. Vybrali si mě a moc bych se divil, kdyby o tom Bůh nevěděl. To, oč jim šlo, mám přece od Něho. Co z toho plyne? To nejneuvěřitelnější: jejich záměr měl Jeho posvěcení.
 
 Tak kdo jsem já, abych odolal?
 
 Zima byla na blátě a na sněhu, pořádně tuhá, listopad s prosincem se protáhly do března a i teď v květnu jsou rána, kdy cítíte staré mrazivé šlehy přes prsty. Ledové květy dávno opadaly z okenních tabulek, ale vítr, co je svál, se přihnal od strany půlnoční. Padlý květ střídá padlý list, je jaro, je podzim, jsou všechna období najednou. Podběl vykvetl v listopadu, uprostřed zimy se pod novou hradbou objevil červený mák. Ještě to potrvá, než se do přírody vrátí starý řád. S pomocí Boží tomu napomůžeme. Až za týden vykvetou šeříky, bude to dobré znamení.
 
+</section>
+
+<section>
+
 Od policie mě vyhodili loni v létě, několik měsíců před krvavou patálií v kostele svatého Apolináře a jen několik dnů po tragické události na Nuselském mostě, kterou teď vypovím. Tenkrát přišel o život člověk, za jehož bezpečnost jsem ručil, i když dodnes si neumím představit, jak bych byl mohl tomu neštěstí zabránit. Vyšetřování trvalo týdny, kriminální policie váhala, jedná-li se o vraždu či sebevraždu a má-li případ převzít od města, a pak věc vyřešila po svém, obětí jednoho ze svých lidí. To jsem byl já. Zájem veřejnosti o letní kauzu nebyl valný a opadl docela, když apolinářský zvon ohlásil onoho slunného jitra konec starých časů. Či konec moderních časů? Možná že skončily již v den, kdy kyvadlo Času houpající se nad Prahou poprvé zaváhalo ve svém kmitu; v den, kdy zemřela inženýrka Pendelmanová.
+
+</section>
+
+<section>
 
 V polovině července si mě předvolal náčelník kriminální policie. Vykonával jsem službu řadového strážníka a nespadal pod jeho pravomoc. Bylo to naše první setkání a nepatřilo k nejpříjemnějším. Když jsem vstoupil do jeho kanceláře v ústřední budově novoměstské policie, někdo už tam byl. Před velkým psacím stolem z dubového dřeva stál zády ke mně vysoký muž. Ohlásil jsem se a postavil se po jeho boku. Ani se na mě nepodíval a dál tiše rozprávěl s náčelníkem. Znal jsem ho od vidění, byl to kolega, který přešel ke kriminálce, když jsem dokončoval akademii. K policii nastoupil brzy a ve sboru sloužil pět let. Snad proto si troufl stát před nadřízeným v tak ležérním postoji. Kdybych byl tušil, kolikrát budu muset v příštích dnech snášet jeho neomalenosti, asi bych se hned omluvil a odešel.
 
@@ -34,13 +46,25 @@ Dnes si říkám, že kdyby se mi bylo udělalo zle, mohl mě Olejář úkolu zp
 
 Inženýrku Pendelmanovou pojilo s bývalým komunistickým režimem nepřímé, ale pevné pouto. Byla vdovou po funkcionáři ústředního výboru strany, náměstkovi někdejšího ministra práce a sociálních věcí. Dozvěděl jsem se, že krátce po Novém roce 1990 spáchal její muž, tehdy již odvolaný a zostuzený aparátčík, neobvyklou sebevraždu: vjel svou těžkou limuzínou na zamrzlou hladinu Orlické přehrady a zamířil přímo k výpusti, kde se led ne­utvořil. Auto se propadlo a zmizelo beze stopy. Následující noci přišel nový tuhý mráz a přehrada zamrzla celá. Vůz s mrtvolou zůstal pod ledem, vyprostili jej až za týden. Lidé, co u toho byli, vyprávěli, jak vojenská jednotka vysekala z hlubin přehrady ledový kvádr podobající se obrovitému skleněnému těžítku. Když vodní jeřáb kostku vytáhl, spatřil v ní přihlížející dav černý automobil a v jeho okénku strašlivou tvář; ústa se strnule usmívala a vypouštěla vír nehybných, velikých prázdných bublin.
 
+</section>
+
+<section>
+
 Inženýrku Pendelmanovou mužova smrt nezlomila. Dál docházela na jistý úřad při městském zastupitelstvu, kde celý život pracovala, a po další tři roky se bránila nátlaku kolegů, kteří se snažili dostat ji pryč. Dřív se jí báli a podezřívali ji, že donáší Pendelmanovi. Když po změně poměrů toto nebezpečí pominulo, přestali skrývat nenávist a chtěli babiznu, jak jí říkali, vystrnadit. Nebylo to jednoduché, výborně se vyznala v zákonech. Nakonec přece jen odešla – poté, co si vymohla nadprůměrnou penzi. Odpočívat nemínila. Pendelman byl v mládí považován za talentovaného levicového básníka, po válce patřil k radikálům zakládajícím dělnická nakladatelství, a než přišlo kulturní zatmění osmačtyřicátého roku, stačil vydat tři sbírky svých veršů. V padesátých letech byl vězněn, po Gottwaldově smrti rehabilitován, do nejvyšší politiky se vyšvihl za normalizace. V té době také přestal s psaním, předtím mu však literární časopisy uveřejňovaly jednu báseň za druhou. Vdova Pendelmanová se rozhodla připravit posmrtný výbor z jeho díla a našla pro knihu nakladatele.
+
+</section>
+
+<section>
 
 V létě minulého roku přišla oznámit, že ji někdo sleduje. Odbyli ji, ale přišla znova, když jí někdo rozbil kamenem okno. Byla to nevelká dlažební kostka, nechala ji na policii s žádostí, aby ji přezkoumali v laboratoři. Nebrali ji příliš vážně, ale museli uznat, že na celé věci je něco neobvyklého – pokud si vdova všechno nevymyslela. Bydlela ve čtvrtém patře činžovního domu na Pankráci, a podobná drobná dlažba se nikde v okolí nevyskytovala. Strefit se do okna v takové výšce vyžadovalo silnou a cvičenou ruku – anebo velké štěstí. Oběť byla přesvědčena, že jde o politickou perzekuci za manželovu minulost a o vyřizování starých účtů. Zavedli ji k náčelníkovi kriminálky a ten rozhodl, že má nárok na ochranu života a zdraví. Slíbil, že jí na měsíc přidělí dva ze svých lidí. Pak se uvidí. Pokud se během této doby výhrůžky obnoví, policie se začne případem intenzivně zabývat.
 
 V laboratoři se pokusili sejmout z dlažební kostky otisky prstů. Zkouška to byla jen formální – dopředu bylo jasné, že se na otesaném kameni nic nenajde. Prohlédl jsem si přiloženou fotografii. Nebylo na ní nic zvláštního. Tvrdý kámen, nejspíš obyčejný druh křemene. Za řeč stálo jen jemné zelené žilkování.
 
 Střídali jsme se s Junkem po týdnu, on se službami začal v sobotu dvacátého července, já jsem je měl ukončit čtyři neděle nato, po dvojím střídání. Zašel jsem s ním na pivo, abychom se lépe poznali a dohodli se na plánu spolupráce pro případ, že by se výhrůžky opakovaly nebo byl na klientku podniknut útok. Mluvil však hlavně o sobě, a to velmi otevřeně, až mě tím uvedl do rozpaků. Připili jsme si na tykání – měl jsem mu říkat Pavel. Požádat ho, aby mě oslovoval jen iniciálou, jsem se neodvážil. Řekl jsem mu celé své jméno. Kupodivu se dál tvářil přátelsky, ale když mi podával ruku na rozloučenou, neušel mi jeho skrytý úsměšek.
+
+</section>
+
+<section>
 
 Byt byl plný slaměnek, žlutých, červených a hlavně fialových, všude vázy, sklenice a umělohmotné kelímky plné těchto květin bez vůně, slaměnky byly zastrkány i za rámy obrazů a mezi stránky svazků v knihovničce. Jejich přítomnost mě podivně uklidňovala, zatímco Junka přiváděla k zuřivosti.
 
@@ -60,7 +84,15 @@ Po čtvrt hodině, během níž jsem střídavě pil vodu z kohoutku a pak zv
 
 Otáčela se ve vzduchoprázdnu kousek za prvním pilířem, visela na prádelní šňůře za krk, jako seschlá cibulka zapomenutá ve spíži. Rozednívalo se jen pomalu, při pohledu na světlo nuselských lamp v hloubce pod námi se zdálo, že vládne nejhlubší noc. Most se pravidelně zachvíval s každým vlakem, který nám zaduněl pod nohama, a za našimi zády svištěla auta v intervalech, jež se s přibývajícím světlem zkracovaly. Některá zvědavě zpomalila a dopravní policista je odháněl plácačkou jako dotěrné mouchy. Služební vozy stály zaparkovány před mostem, aby neblokovaly provoz. U chodníku v místě neštěstí stála jen sanitka. Maják na střeše kabiny nesměle poblikával a houkačka mlčela, zahanbená, vědomá si své zbytečnosti.
 
+</section>
+
+<section>
+
 Mám být rád, že se to nebude vyšetřovat, tak mi to řekli, a přidali radu, abych okamžitě podal žádost o propuštění, bude zaručeně podepsána. Mám prý z pekla štěstí, o alkoholu se v protokolu neobjeví ani slovo, takovou ostudu si policie nemůže dovolit. Mou rezignaci podepsal sám Olejář a vzkázal mi, abych mu ve vlastním zájmu nechodil na oči. Prostřednictvím svého nadřízeného jsem ho požádal o rozhovor, ale neodpověděl. Celá věc mi byla od začátku podezřelá a dobře jsem věděl, že za podpis neúplného protokolu můžu být soudně stíhán, ale hrdinu jsem hrát nechtěl, bylo by to špatné představení. Oficiální verze zněla ve zkratce takto: sebevražda, jíž ostraha nemohla zabránit. Policistu zabezpečujícího ochranu před atentátem zamkla chráněná osoba ve vlastním bytě, zatímco spal. Dokazují to klíče v kabele, která zůstala ležet na chodníku nad místem neštěstí.
+
+</section>
+
+<section>
 
 Jak se stará žena dostala přes dvoumetrové drátěné pletivo a proč se oběsila na prádelní šňůře, když stačilo vrhnout se do hlubiny, to nikdo nevysvětlil. Nikoho to příliš nezajímalo. Toho dne došlo pod Nuselským mostem k druhému neštěstí. Nějaká mladá žena stála u zábradlí několik hodin, aby si televizní reportéři v klidu připravili náčiní. Teprve potom skočila, večer to odvysílali ve zprávách, smrt v přímém přenosu se stala hitem okurkové sezony. Sebevraždě inženýrky Pendelmanové scházel mediální půvab. S vraždou by to jistě bylo jiné, ale policie toto vysvětlení odmítla.
 

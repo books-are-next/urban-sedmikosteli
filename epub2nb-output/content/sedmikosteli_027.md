@@ -10,6 +10,10 @@ zněl tam umíráček
 
 — O. Mikulášek
 
+</section>
+
+<section>
+
 První dva adventní týdny byly na blátě. Žitnou a Ječnou se na náměstí vevalily potoky hnědočerné břečky a vřinuly se do parku, který zpustošily jako jarní povodeň. Černé kmeny akátů stály v hlubokých kalužích, spojujících se v protáhlá jezírka, a jejich odraz se v nich strašidelně lámal. Podél křovin ve spodní polovině náměstí se navrstvilo steklé bahno a vytvořilo hráz, která dala vzniknout dvěma rozsáhlým rybníčkům, zabraňujícím průchod touto částí sadů každému, kdo nepřišel ve vysokých holínkách. A z nebe se na město spouštěly další opony deště, ještě hustší a šedší než předchozí, jako by svatý Petr chtěl zakrýt hrůzné divadlo, v něž se Praha proměnila na sklonku dvacátého věku.
 
 V přímé lince vozovky z Ječné do Resslovy nemělo vodu co zastavit a prohnala se tudy jako říčním korytem. Když opadla, ukázalo se, že jáma v silnici je téměř dvakrát tak velká než předtím. Odér hniloby se trochu zmírnil, protože klášterní sklepení byla zatopena, ale z ulice se ztratily všechny závory, které byly až do oblevy rozestavené kolem místa havárie. Zmizely v díře i se spojovacími lany, výstražnými dopravními značkami a pomrkávajícími žlutými světly. Řidiči v projíždějících autech si ani v nejmenším nepřipouštěli hrozící nebezpečí; když viděli, co se černá v asfaltce před nimi, objeli místo po chodníku a pokračovali dál. Než stačila policie ulici uzavřít, doplatil na svou troufalost taxikář, který odmítl čekat ve frontě a pokusil se objet jámu z druhé strany, po chodníku před kostelem svatých Cyrila a Metoděje. Jeho bachratý volkswagen se jen taktak prosmýkl kolem kráteru a eskamotér zastavil, aby udělal na řidiče čekající ve frontě na opačné straně vítězné gesto. Jeho obličej připomínal vepřový ovar, když se rozzářil úsměvem vítězného závodníka. V ten ráz se automobil propadl a na silnici vyšplíchl gejzír hnědé vody. Po taxíku, stejně jako po chodníku byla veta, hladová díra roztáhla chřtán a spolykala vše, co jí přišlo do cesty. Ze zdi kostela se do hlubiny zřítily vyvalené cihly, zel v ní čerstvý, asi metr vysoký otvor. Nika pro pomníček.
@@ -39,6 +43,10 @@ Rozpomněl jsem se na dětské kresbičky v anonymním dopise, na domečky, k
 Baráčky s placatou střechou. Baráčky paneláčky.
 
 Ještě třikrát jsem rytíři z Lübecku dělal doprovod a zároveň společnost, ale takové jako dřív už to mezi námi nebylo. Důvěrnost a přátelství byly pryč, vystřídal je smutek a špatná nálada. Zdrojem trudnomyslnosti nyní nebyla žádná budova a její truchlivý stav, nýbrž, jak jsem vytušil, má neochota promluvit ve stavu vytržení. Dával jsem si dobrý pozor, abych se držel v dostatečné vzdálenosti od prastarých chrámových zdí a sahal jen na to, co je prokazatelně nové.
+
+</section>
+
+<section>
 
 Emauzský kostel zasvěcený Panně Marii, svatému Jeronýmovi, Vojtěchovi, Prokopovi a Cyrilovi s Metodějem, původně gotický trojlodní a trojchórový chrám vysvěcený roku 1372 za účasti císaře Karla, dávno ztratil svou strohou krásu vertikály křižující se s horizontálami a utrpěl ve své dlouhé historii řadu bolestivých přestaveb. Nejhorší ránu mu zasadila barokní úprava v sedmnáctém století, při níž kostel sice dostal dvě mohutné věže, které v původních plánech chyběly, avšak počátek následujícího věku na ně narazil bachraté kedlubny, zcela zničiv mužský ráz stavby, jenž se tak hodil k modlitebně řádu chorvatských benediktinů, a dodal jí jiný vzhled – vizáž rozložité trhovkyně věstící mnichům zkázu. Na konci minulého století navrátili beurnští bratří kostelu gotickou tvář, ale byla to gotika Čechám cizí, hornoněmecká, a chrám, nyní se špičatými, ale přezdobenými věžemi a přehnaně vysokým trojúhelníkovým štítem, její vinou nabyl podoby opevněné městské brány nebo lepší tržnice. V únoru 1945 ho vybombardovalo spojenecké letectvo – ale chtějme od Američanů, aby rozeznali středověký chrám od továrny na zbraně – a jeho dnešní, poněkud provizorní vzhled se sklobetonovým štítem a dvěma zkříženými, na vrcholcích pozlacenými jehlami je dílem poslední přestavby, uskutečněné v šedesátých letech dvacátého století.
 
@@ -83,6 +91,10 @@ Pak se vše změnilo. Ulice se hemžila černými uniformami, mezi nimiž se pro
 Pocítil jsem lítost nikoli nad Junkem, ale nad sebou. Byl jsem si jist, že jeho smrt připíšou na můj už tak dost vysoký účet. V duchu jsem se loučil s nedávno nabytou důvěrou. Vždyť ani z poznávací značky bílé škodovky jsem si nebyl s to vybavit víc než polovinu, přestože jsem si ji stihl prohlédnout. Stačilo to na rychlé telefonické ověření skutečnosti, že automobily s čísly této série policie nepoužívá. Další z mých fatálních omylů.
 
 Odpoledne se na scéně objevil patolog Trug, jako vždy, když ho bylo zapotřebí pro nějakou jemnou, obzvlášť ohavnou práci. Barnabášova hlava se totiž Resslovkou skutálela až na nábřeží, kde ji jeden pilíř Tančícího domu odkopl jako fotbalový míč do branky – ve skutečnosti do zábradlí u chodníku nad řekou. Tam se zaklínila v síti železných propletených květin a nešla ven. Vyprostil ji až Trug, vyřízl ji chirurgickou pilkou. Kulatý otvor v zábradlí tam najdete ještě dnes.
+
+</section>
+
+<section>
 
 Když jsem večer v zavřené ulici opět osaměl, vzpomněl jsem si na pojízdný jeřáb, který ráno stál u kostela svatého Václava. Oranžová tatra, model, který dávno nahradily novější a výkonnější pracovní vozy. K čemu silničáři potřebovali jeřáb? Doběhl jsem ke kostelu a znovu přehlédl stavební stroje: míchačka, válcovací vůz, asfaltovací vůz. Jeřáb zmizel. Byl jsem si jist, že je to ten, s jehož pomocí vraždící maniak vyzvedl na stožáry u Kongresového centra nohy inženýra Řehoře a snesl královskou korunu ze špice věže Svatého Štěpána, aby do ní vpletl mladého vandala. Ani mě nenapadlo říkat o tom Olejářovi.
 

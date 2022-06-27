@@ -11,11 +11,19 @@ se bude snášet jako květy.
 
 — T. S. Eliot
 
+</section>
+
+<section>
+
 Bylo překrásné jitro na začátku listopadu. Protáhlé babí léto zdržovalo po celý říjen příchod podzimu, až přikvapil první štiplavý mráz, šlehnutí proutku, po němž město ustrnulo úlekem. Není to ani půlrok, co se naposled psaly moderní časy; metropole se ještě dovedla vyrovnat s nadcházející zimou. Světla rychle ubývalo a za nehty zalézal mráz, ale komíny fabrik horce dýchaly a okna domů se rosila bílým světlem. Byly to výpary rozkladu, byl to pot smrtelný. Mejkap nových fasád ani šperky rychlých vozů nezastřely pravdu holou jako stromy na Karlově náměstí: rok starý, století staré, milénium přestárlé. Každý to měl na očích, mnohý se staženým hrdlem odvracel zrak a poddal se zubům posledního podzimu; trojhlavý pes vtrhl do Prahy a nevybočil z přímé trasy, tři hladové tlamy se vrhaly po všem, co se v pozdní hodině lidstva troufalo pohnout. Rdousily nelítostně.
 
 To bylo loni, pak se vše změnilo. Nadešla doba slitování.
 
 Nízké bílé slunce přelezlo zeď nemocnice a uvízlo v pavučině javorových korun. Pozvolna a jako na truc ohřívalo mrazivý suchý vzduch vonící listím, pro něž nebylo pod nohama vidět chodník. V Kateřinské to nebylo horší než v jiných letech, ale Viničnou zasypala v celé délce šelestivá duna, pod níž se ztratil asfalt i dlažební kostky. Jistota pevné půdy pod nohama byla ta tam, každý krok znamenal dobrodružství bez pevných obrysů, nejasný, neurčitě zlověstný otisk podrážky v červené závěji. Prodírat se zapadanou ulicí však může být nebezpečné; stejně nebezpečné jako procházka po zamrzlé řece.
+
+</section>
+
+<section>
 
 Ubíral jsem se po větrovském hřebeni směrem ke Karlovu, rozrážel nohama žluté moře a uhýbal před sprškami rozvířeného okru, rumělky, sieny a umbry. Ulice se proměnila v říční koryto s kolmými břehy: špitální zeď po levé ruce a budovy přírodovědy po pravé. Když si cestu v mysli prodloužíte, protnete jí pahorek a překlenete údolí, neomylně vás dovede ke kostelu. Zbožný poutník nezbloudí.
 
@@ -64,6 +72,10 @@ Hlavou mi bleskla vzpomínka na dětství. Chodil jsem s babičkou sbírat žl
 Podíval jsem se blíž. Malá paní poodstoupila, aby mi udělala místo. Zvedl jsem ruce a opatrně sňal věnec z kamenné hlavy. Několikrát jsem jej obrátil v dlaních a nakonec ke kvítkům přičichl. Naráz se mi vybavilo jejich jméno. Podběl.
 
 Ještě jsem držel věneček v dlaních, když se odněkud ozvala rána, kterou vzápětí doprovodil ošklivý, neznělý zvuk kovu. Přišlo to ze vzduchu, z výšky, z povětří. Když se opět rozhostilo ticho, zvedl jsem zrak, květy stále mezi prsty. Malá paní byla pryč, stál jsem před sochou sám. A znovu ten zvuk; nyní se zřetězil a podivnými, nestejnorodými tóny zazvučel do šira. Bim bam, bim bam, ale jinak, než se sluší. Ve věži kostela se houpal zvon a zvonil falešně. Hodinky na mé ruce ukazovaly tři čtvrtě na devět. Strnul jsem leknutím. Kostel je zavřený, a zvoní v něm na mši.
+
+</section>
+
+<section>
 
 Nejsem hrdina. Z vrátnice nedaleké kliniky jsem zavolal policii. Automaticky jsem vytočil číslo svého bývalého nadřízeného a v duchu si oddechl, že se neohlásil on, ale jeho zástupce. Hlídka přijela za čtyři minuty, dva muži, které jsem znal. Divoké vyzvánění drásalo uši a nepřestávalo.
 

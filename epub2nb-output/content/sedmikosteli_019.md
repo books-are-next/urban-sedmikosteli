@@ -12,9 +12,17 @@ až jednou přejdu práh.
 
 — K. Kraus
 
+</section>
+
+<section>
+
 Divit se. Tato schopnost, jež je projevem vnímavosti u dětí a dětinskosti u dospělých, mě patrně neopustí ani na smrtelné posteli – budu udiven, že na nějaké ležím, že jsem dávno nesešel z tváře světa spolu s oběťmi hrůzného pražského spiknutí, jehož historii vám zde, ve svém podivuhodném vězení, už nějakou dobu líčím.
 
 Záhir žil. Když se mi ve čtvrtek večer ozval Olejář, první, co mě napadlo, bylo, že se plukovníkovi donesla zpráva o jeho zavraždění. Opatrně jsem se na něj zeptal a dozvěděl se, že ti dva spolu právě mluvili. Úleva to pro mě byla mocná, musel jsem si sednout, protože mi nohy náhle vypověděly službu. Záhir na mě dokonce ani nežaloval. Olejář mi chtěl sdělit jen odložení naší schůzky. Zatímco ke mně ze sluchátka doléhal jeho pronikavý, sebejistý, a přece trochu ustaraný hlas, uvyklý rozkazovat armádě podřízených, mé fantazie o zabijácké nátuře tohoto člověka štvaného minulostí začaly slábnout. Vysoký úředník s hnisajícími sluchovody, máslem na hlavě a neochotou uznat své chyby – to ano. Ale surový vrah? Chudák, kterému prýští z uší vlastní černé svědomí, každému na očích.
+
+</section>
+
+<section>
 
 Zeptal jsem se, jestli detektivové přišli na něco nového. O výhrůžných dopisech se nezmínil. Řekl, že Řehořovo beznohé tělo je stále nezvěstné, ale že má na stole nový případ dvou výrostků, kteří se od úterka nevrátili domů. Tomu jsem se nemohl nezasmát a popřál jsem mu, aby je policie brzy našla. Téměř přátelským tónem řekl, že naštěstí ne všechny kriminální případy jsou krvavé, někdy stačí vyhlásit celostátní pátrání. Schůzku jsme přeložili na pondělí.
 
@@ -58,19 +66,27 @@ Přelezl jsem po kolenou k umyvadlu, pod nímž se kámen zastavil. Zvedl jsem
 
 Ptáte se, co to má všechno znamenat, ale nemůžu vám odpovědět hned a už vůbec ne přímo. Máte podezření, že některé věci záměrně nechávám nevysvětlené. Možná je na tom kus pravdy, ale věřte, nechávám-li vás hádat, chci, abyste tápali stejně, jako jsem tápal já: i na vás musí přejít má nejistota, úzkost a strach. Jsou nezbytné pro dosažení poznání. Mně se ho dostalo, a pokud jste z těch, kdo po něm baží, v bludišti slov se držte v mých stopách.
 
+</section>
+
+<section>
+
 Z budovy ústavu jsem se dostal stejně nepozorovaně jako při vstupu. Vrátil jsem se ke kostelu a spatřil na lavičce Lucii. Jednou rukou houpala kočárek, v druhé držela rozevřenou knihu. Byl jsem si jist, že na mě čeká.
 
-Už jsem byl klidný. Došel jsem k ní a zeptal se, co čte. Zvedla ke mně své hezké šedé oči a řekla, že gotický román. Pak připojila otázku, kde jsem tak dlouho byl. Vymyslel jsem si, že jsem se v ústavu stavil za kamarádem. Lucie se zvedla a upravila si sukni. Než jsme se dali do kroku, zašilhal jsem na obálku knihy, kterou položila do kočárku. Byl to Otrantský zámek Angličana Horace Walpola, strašidelný příběh napsaný v osmnáctém století, podle umístění záložky skoro dočtený.
+</section>
+
+<section>
+
+Už jsem byl klidný. Došel jsem k ní a zeptal se, co čte. Zvedla ke mně své hezké šedé oči a řekla, že gotický román. Pak připojila otázku, kde jsem tak dlouho byl. Vymyslel jsem si, že jsem se v ústavu stavil za kamarádem. Lucie se zvedla a upravila si sukni. Než jsme se dali do kroku, zašilhal jsem na obálku knihy, kterou položila do kočárku. Byl to _Otrantský zámek_ Angličana Horace Walpola, strašidelný příběh napsaný v osmnáctém století, podle umístění záložky skoro dočtený.
 
 „To je náhoda!“ vypadlo ze mě. „Nedávno jsem to četl. Jak se ti to líbí?“
 
 „Začátek moc, pak je to čím dál tím bláznivější. Doufám, že se na konci všechny ty záhady vysvětlí.“
 
-„Připrav se na to, že budeš zklamaná. Mně se Otrantský zámek líbí právě pro svoji obrazotvornost, v níž logika není tak důležitá. Znáš Claru Reevovou?“
+„Připrav se na to, že budeš zklamaná. Mně se _Otrantský zámek_ líbí právě pro svoji obrazotvornost, v níž logika není tak důležitá. Znáš Claru Reevovou?“
 
 „Ne.“
 
-„To byla velká obdivovatelka Horace Walpola. Ale vadilo jí u něj přesně to, co vadí tobě: všechny ty záhadné vzdechy, tajemná zjevení, postavy vystupující z obrazů, řinčení řetězů v kobce pod hradem. Walpole je předvádí jako skutečnost, nezpochybňuje je ani náznakem, a čtenáři nezbývá než mu věřit anebo knihu zahodit do koše. Reevová se nespokojila ani s jedním. Ve variaci na Otrantský zámek nazvané Starý anglický baron také záhadami nešetří, ale v duchu osvícenství je vždy rychle uvádí na střízlivou míru. Každé zjevení, každý děsivý úkaz má své vysvětlení.“
+„To byla velká obdivovatelka Horace Walpola. Ale vadilo jí u něj přesně to, co vadí tobě: všechny ty záhadné vzdechy, tajemná zjevení, postavy vystupující z obrazů, řinčení řetězů v kobce pod hradem. Walpole je předvádí jako skutečnost, nezpochybňuje je ani náznakem, a čtenáři nezbývá než mu věřit anebo knihu zahodit do koše. Reevová se nespokojila ani s jedním. Ve variaci na _Otrantský zámek_ nazvané _Starý anglický baron_ také záhadami nešetří, ale v duchu osvícenství je vždy rychle uvádí na střízlivou míru. Každé zjevení, každý děsivý úkaz má své vysvětlení.“
 
 „Povedlo se jí to?“
 
@@ -84,7 +100,7 @@ Už jsem byl klidný. Došel jsem k ní a zeptal se, co čte. Zvedla ke mně 
 
 „Určitě, i když je to složitější. Dnešní čtenář se nad jeho hrůzostrašnými scénami popadá za břicho – třeba když soše zavražděného knížete Alfonsa Dobrého vytryskne z nosu krev. Opravdu pitomá situace – socha potřebuje kapesník. Ale neznamená to, že při jiných scénách ti nevstávají hrůzou vlasy na hlavě.“
 
-„To bych řekla. Co ti v Otrantském zámku připadalo nejstrašnější?“
+„To bych řekla. Co ti v _Otrantském zámku_ připadalo nejstrašnější?“
 
 „Utrpení nevinných.“
 
@@ -94,7 +110,7 @@ Už jsem byl klidný. Došel jsem k ní a zeptal se, co čte. Zvedla ke mně 
 
 „To ti pěkně děkuju. Teď už to nemusím dočítat, když jsi mi vyzvonil, jak to dopadne. Ale copak nevidíš pointu? Samozřejmě že je Manfréd potrestán: až do konce jeho dní ho bude mučit svědomí.“ Ustaraně pohlédla na spící dítě a upravila mu peřinku.
 
-„Promiň, nechal jsem se unést. Určitě to dočti, stojí to za to. V podstatě je ta kniha hluboce pravdivá. Utrpení nevinných vidíme dnes a denně, Otrantský zámek věrně odpovídá skutečnosti končícího dvacátého století. A právě tak je to s nezodpovězenými otázkami, kterých, stejně jako v této knize, je i v životě víc než odpovědí. Vlastně to souvisí s tím, zda čtu raději Walpola, anebo Reevovou. Vybral bych si něco mezi nimi: příběh s rozumným, logickým vyústěním, jaké uspokojí bytost řídící se rozumem. Ale musí tam být něco navíc, něco nevysvětlitelného jako doklad mého hlubokého přesvědčení, že ne všechno, co se nám ukazuje, dokážeme pochopit. Svět je neuchopitelný jako gotický román.
+„Promiň, nechal jsem se unést. Určitě to dočti, stojí to za to. V podstatě je ta kniha hluboce pravdivá. Utrpení nevinných vidíme dnes a denně, _Otrantský zámek_ věrně odpovídá skutečnosti končícího dvacátého století. A právě tak je to s nezodpovězenými otázkami, kterých, stejně jako v této knize, je i v životě víc než odpovědí. Vlastně to souvisí s tím, zda čtu raději Walpola, anebo Reevovou. Vybral bych si něco mezi nimi: příběh s rozumným, logickým vyústěním, jaké uspokojí bytost řídící se rozumem. Ale musí tam být něco navíc, něco nevysvětlitelného jako doklad mého hlubokého přesvědčení, že ne všechno, co se nám ukazuje, dokážeme pochopit. Svět je neuchopitelný jako gotický román.
 
 Zkus si představit, jak by psal Horace Walpole dnes. Připadala by mu moderní Praha dost příšerná? Myslím v romantickém smyslu. Přijal by ji jako výzvu? Anebo by se uchýlil, tak jak je v módě od časů Svátkových a Meyrinkových, k době císaře Rudolfa? Dovedl by i tak říci něco současného? Trpěly by jeho oběti pro staré hříchy předků, trestali by duchové bezohledné ničemy? Ať by se rozepsal o čemkoli, vždycky by převládla otázka nad odpovědí. Prostředí a postavy by si vzal z naší kybernetizované současnosti, a přece by šlo o ta nejpodivnější a nejzáhadnější místa a individua, jaká si lze představit. Dobře se rozhlédni tady po univerzitním areálu: uvidíš je na každém kroku, za každým rohem –“
 

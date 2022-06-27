@@ -12,6 +12,10 @@ A čas se vrací zpět.
 
 — K. Kraus
 
+</section>
+
+<section>
+
 Buď Bohu chvála, že je zima pryč, dlouhá, ledová a nekonečná, trvající bezmála sedm staletí. Na Nový rok a šest týdnů po něm jsem se zmítal v horečkách. Ustlali mi kdovíproč v červené chodbičce rytířova apartmá v bývalém hotelu Bouvines. Poddajné stěny skýtaly teplo a bezpečí, když jsem do nich bil hlavou, oplácely hebkým pohlazením. Celou dobu mě někdo krmil a ošetřoval, nejspíše Rozeta, a hluboce se stydím, že mě den co den nacházela v tak bědném stavu. Bez ustání jsem naříkal a většinou o sobě nevěděl. A přece ta zima skončila a já jsem jednoho dne vystoupil ven jako znovuzrozený.
 
 Jaro se přivleklo se zpožděním, stromy vypučely až koncem dubna a teď, o měsíc později, teprve kvetou šeříky, pomalu, avšak štědře až rozmařile. Z Bouvines mě přestěhovali sem, jakmile jsem byl schopen pohybu, a rozsvícené bílé keře byly to první, co jsem spatřil z oken svého nového příbytku. Jak se té krásy zmocnit? Uchopit ji do dlaní, uschovat v kapse, přitisknout pod košilí k tělu? Taková krása umí člověka zle potrápit, je neslitovná, nemravná ve své netečnosti. Hledím na květy z okna, celé hodiny, voním k nim na dálku a hladím je v představách, nechávám si je nosit do pracovny a utápím tvář v jejich omamných mračnech, a kolikrát si tajně přeji stát se některou z váz a živit je ze svých hlubin.

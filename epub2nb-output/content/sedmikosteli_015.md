@@ -10,9 +10,17 @@ ten přízrak na mé cestě?
 
 — W. Chamberlayne
 
+</section>
+
+<section>
+
 Šeřík má nejkrásnější květy. Nebo druhé nejkrásnější – nic přece nepředčí růži. Anebo třetí nejkrásnější – mezi růžemi a šeříky jsou zajisté pivoňky. Hrozny šeříkových kvítků v čiré skleněné váze mě uvádějí v úžas, podobně jako růže rozbujelé hodinu před opadáním a pivoňky v ranních paprscích, pronikajících východním oknem. Když říkám šeřík, myslím tím šeřík před rokem čtyřicet pět; ve vůni mých šeříků není stopa po střelném prachu, po spálené naftě, po zpolitizovaných dějinách. Ale jak si je odmyslet? Ta urážka postihla i karafiáty, ozdoby významných mužů v šedých oblecích; neobejde se bez nich vítání na mezinárodním letišti ani ikebany v zasedacím sále. Květiny V.I.P. Když dojdou vázy, poslouží lahve. I červená růže je v ohrožení; snad je přestojí bez ztráty lístečku. Růžový záhon je jako středověká zahrada místem pro rozjímání. Vstupuji do něj. Odmýšlím dvacáté století.
 
 Květiny ve vázách na hlavním oltáři ve Svatém Štěpánu byly bílé šeříky. Uvědomil jsem si to v den, kdy jsem šel do nemocnice za inženýrem Záhirem. Ani jsem se tomu už nedivil, hodil jsem to za hlavu. Mohly být umělé, mohli je přivézt z Holandska nebo z Brazílie. Avšak proč? Kvůli komu?
+
+</section>
+
+<section>
 
 Záhir byl podsaditý rtuťovitý muž krátce po čtyřicítce, ani v pruhovaném pyžamu a světlemodrém županu nepostrádající eleganci a upravený vzhled. V nemocnici na Karlově náměstí si platil nadstandardní pokoj se sprchovým koutem, televizorem a terasou, odkud měl výhled na opadané stromy v areálovém parčíku a věž kostela svaté Kateřiny. Pokoj se topil v barvách, všudypřítomné kytice řezaných květin dávaly zapomenout na špitál. Nejvíc tu bylo žlutých a žlutočervených tulipánů, snad až nevkusně dokonalých svým nadměrným vzrůstem a velkými, navlas stejnými poháry květů. V tom puntičkářství, v té přešlechtěnosti bylo něco tupého; není snad tulipán květinou hlupáků? Pacient na ně ukázal a lhostejně prohodil, že neví, kdo mu je poslal. Měl snědou pleť, která s jasnými barvami květin mírně kontrastovala, seděl na lůžku opřený o kupu polštářů a loupal pomeranče. Před sebou na přikrývce měl tác, na němž se slupky vršily přes ovoce. Zahlédl jsem také hrozny, jablka a jakési nazelenalé plody s masitými ostny, mně neznámé. Záhir, s jehož ulepenou rukou jsem si nad tou úrodou právě potřásl, si mého zvědavého pohledu všiml a jednu ostnatou kouli mi nabídl. S díky jsem odmítl. Vyzval mě, abych se posadil. Rozhlédl jsem se po pokoji, ale na obou židlích, které tu měl, stály vázy, umělohmotné kelímky a dokonce i laboratorní odměrné válce s květinami. Všiml jsem si, že pod židlemi je vyrovnána řada plných lahví s rozličnými etiketami a pestrým obsahem. Nemaje kam si sednout, opřel jsem se o psací stůl, jenž k výbavě pokoje nepatřil; jak mi inženýr sdělil, kolegové mu jej přivezli z kanceláře.
 
@@ -168,13 +176,17 @@ Záhir obdivuhodně křepce vyskočil z postele, natáhl se pro berle a přeš
 
 V dalších dnech můj telefon mlčel, neozval se Gmünd ani Záhir, nezavolal ani Olejář. V jednom kuse pršelo, kvůli zatažené obloze se v oknech protějšího bloku od rána do večera svítilo. V kostele jsem nastydl, a tak jsem ležel ve svém pokoji na Proseku a nevycházel ven. Pálilo mě v krku, teklo mi z nosu a hučelo v uších. Četl jsem si u rozsvícené lampy. Zkoušel jsem se ponořit do Pekařových studií o husitském hnutí, vyhledal jsem si kapitolu o řádění Želivského na Novém Městě. Po zádech mi přebíhal mráz a já nevěděl, zda je to četbou či horečkou.
 
+</section>
+
+<section>
+
 Listopadový déšť neustával, bez deštníku se nedalo doběhnout ani do samoobsluhy, natož vyjít si do Ďáblického háje. Deštník jsem neměl. Můj mackintosh filmového detektiva zklamal, promokavý byl až hrůza.
 
 Zkoušel jsem pečlivěji se starat o své exotické květiny, ale žily si svým životem a kromě pravidelného zalévání mě nepotřebovaly. Jen vinné révě ze stráně nad Botičem se nevedlo tak jako dřív. V posledních dnech výhonek zežloutl, jeho stonek se pustil špejlí, kolem nichž se tak dlouho ovíjel, a ležel v hlíně jako mrtvolka novorozeněte. Listy se kroutily a vyvstaly na nich bílé skvrny. Udělal jsem nad rostlinou kříž, ale nechtěl jsem ji vyhodit, dokud úplně neuvadne.
 
 Paní Frýdová začala být nesvá, že jsem už několik dní nevytáhl paty. Asi si všimla, jak jsem předrážděný, a dozajista jí neušel můj obličej člověka, který je schopen usnout až před rozedněním a z neklidného spánku se probírá kolem poledne. Ke konci týdne, bylo to v pátek, kdy jsem nebyl schopen vstát z postele a jen jsem upíral nevyspalé oči na bílý strop, vstoupila do mého pokoje s náručí plnou knih a prohlásila, že mi vybrala ze svých nejoblíbenějších a že možná vytlouká klín klínem, ale že to někdy pomáhá. Knihy s žuchnutím dopadly na stůl a paní Frýdová za sebou zavřela dveře.
 
-Přinutil jsem se v posteli aspoň nadzvednout a natáhnout ruku po svazku, který byl nejvýš. Horace Walpole: Otrantský zámek. Usmál jsem se a nezávazně knihu otevřel v polovině. Za okamžik jsem se vrátil na začátek a začetl se. To bylo ráno. Najednou zaklepala bytná na dveře, nesla mi večeři. Byl večer. V pokoji od rána svítila lampa, nevnímal jsem čas. Za oknem teď byla tma, budík ukazoval tři čtvrtě na osm. Knihu jsem měl přečtenou. Najedl jsem se a zvědavě sáhl po ostatních svazcích. Clara Reevová: Starý anglický baron. Ann Radcliffová: Záhady Udolpha. Edgar Allan Poe: Anděl pitvornosti. E. T. A. Hoffman: Pískař. Joseph von Eichendorff: Šálení podzimu. A byly tam další.
+Přinutil jsem se v posteli aspoň nadzvednout a natáhnout ruku po svazku, který byl nejvýš. Horace Walpole: _Otrantský zámek_. Usmál jsem se a nezávazně knihu otevřel v polovině. Za okamžik jsem se vrátil na začátek a začetl se. To bylo ráno. Najednou zaklepala bytná na dveře, nesla mi večeři. Byl večer. V pokoji od rána svítila lampa, nevnímal jsem čas. Za oknem teď byla tma, budík ukazoval tři čtvrtě na osm. Knihu jsem měl přečtenou. Najedl jsem se a zvědavě sáhl po ostatních svazcích. Clara Reevová: _Starý anglický baron_. Ann Radcliffová: _Záhady Udolpha_. Edgar Allan Poe: _Anděl pitvornosti_. E. T. A. Hoffman: _Pískař_. Joseph von Eichendorff: _Šálení podzimu_. A byly tam další.
 
 Ty knihy mě vyléčily. Přeháněl bych, kdybych řekl, že v neděli jsem se cítil jako rybička, ale latimérie je koneckonců taky ryba, a zhruba tak jsem si připadal. Vytloukání klínu klínem zabralo a nemínil jsem v něm přestat. Oblékl jsem se a dojel na Nové Město, po němž se mi během nemoci stýskalo. Na Karlově náměstí jsem zašel do Černého pivovaru, nevlídné hospody, kde jsem se občas zastavil na oběd. U výčepu jsem si objednal grog. Vybral jsem si nejčistší umakartový pultík a zamířil k němu, stál u něj starý muž nad talířem polévky. Když jsem usrkl z horkého nápoje a mimovolně zvedl zrak, zjistil jsem, že se dívám do tváře profesoru Netřeskovi.
 

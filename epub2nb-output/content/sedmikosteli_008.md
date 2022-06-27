@@ -12,6 +12,10 @@ a varovník.
 
 — R. Weiner
 
+</section>
+
+<section>
+
 Historie mých pohrom se začala psát v den, kdy jsem dostal své jméno – či už když jsem se narodil. Nebo ještě o devět měsíců dřív? A možná ji předurčilo už narození mého otce, muže s nehezkým přízviskem, které jsem zdědil.
 
 Rodiče mě nechtěli. To kvůli mně stvrdili svůj vztah manželstvím – z močálu rovnou na skálu. Ukrutnosti, k nimž jsem byl v dospělém věku záludně přiváben, jsou jen logickým následkem těchto nedorozumění. Neznám nic ubožejšího než manželství uzavíraná v dvacátém století a považuji se za šťastlivce, neboť jsem se dožil konce onoho hnusného věku svobodný. Bezpochyby to bylo jen proto, že jsem se včas obrátil zpátky, k minulosti, k jejím tajemným příběhům. Všechny se nedají vypovědět, přetrvají ty, jež stojí za to. Můj vlastní příběh, dnes už též dávná minulost, patří k těm nejpodivuhodnějším.

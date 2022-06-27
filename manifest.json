@@ -8,13 +8,10 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "urban-sedmikosteli-06ceeea",
-  "revision": "06ceeea",
+  "identifier": "urban-sedmikosteli-f041946",
+  "revision": "f041946",
   "readingOrder": [
-    "sedmikosteli_001.html",
     "promo.html",
-    "sedmikosteli_003.html",
-    "sedmikosteli_004.html",
     "sedmikosteli_005.html",
     "sedmikosteli_006.html",
     "sedmikosteli_007.html",
@@ -43,33 +40,13 @@
     "sedmikosteli_030.html",
     "sedmikosteli_031.html",
     "sedmikosteli_032.html",
-    "sedmikosteli_033.html"
+    "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:31:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980275799
+    "date": "Mon Jun 27 2022 14:49:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656341377465
   },
   "documents": [
-    {
-      "title": "Sedmikostelí",
-      "file": "sedmikosteli_001.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "promo.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Městská knihovna v Praze",
       "file": "promo.html",
@@ -77,50 +54,10 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "sedmikosteli_001.html",
-      "next": "sedmikosteli_003.html",
-      "toc": []
-    },
-    {
-      "title": "Sedmikostelí",
-      "file": "sedmikosteli_003.html",
-      "words": 7,
-      "chars": 44,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "promo.html",
-      "next": "sedmikosteli_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Sedmikostelí",
-      "file": "sedmikosteli_004.html",
-      "words": 88,
-      "chars": 585,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "sedmikosteli_003.html",
+      "order": 0,
+      "prev": null,
       "next": "sedmikosteli_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Sedmikostelí",
@@ -129,8 +66,8 @@
       "chars": 150,
       "ideas": 4,
       "role": "chapter",
-      "order": 4,
-      "prev": "sedmikosteli_004.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "sedmikosteli_006.html",
       "toc": [
         {
@@ -149,7 +86,7 @@
       "chars": 585,
       "ideas": 6,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "sedmikosteli_005.html",
       "next": "sedmikosteli_007.html",
       "toc": [
@@ -169,7 +106,7 @@
       "chars": 15689,
       "ideas": 40,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "sedmikosteli_006.html",
       "next": "sedmikosteli_008.html",
       "toc": [
@@ -189,7 +126,7 @@
       "chars": 17968,
       "ideas": 37,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "sedmikosteli_007.html",
       "next": "sedmikosteli_009.html",
       "toc": [
@@ -209,7 +146,7 @@
       "chars": 9636,
       "ideas": 19,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "sedmikosteli_008.html",
       "next": "sedmikosteli_010.html",
       "toc": [
@@ -229,7 +166,7 @@
       "chars": 18139,
       "ideas": 31,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "sedmikosteli_009.html",
       "next": "sedmikosteli_011.html",
       "toc": [
@@ -249,7 +186,7 @@
       "chars": 11565,
       "ideas": 24,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "sedmikosteli_010.html",
       "next": "sedmikosteli_012.html",
       "toc": [
@@ -269,7 +206,7 @@
       "chars": 15852,
       "ideas": 39,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "sedmikosteli_011.html",
       "next": "sedmikosteli_013.html",
       "toc": [
@@ -289,7 +226,7 @@
       "chars": 26821,
       "ideas": 71,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "sedmikosteli_012.html",
       "next": "sedmikosteli_014.html",
       "toc": [
@@ -309,7 +246,7 @@
       "chars": 32892,
       "ideas": 126,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "sedmikosteli_013.html",
       "next": "sedmikosteli_015.html",
       "toc": [
@@ -329,7 +266,7 @@
       "chars": 24869,
       "ideas": 100,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "sedmikosteli_014.html",
       "next": "sedmikosteli_016.html",
       "toc": [
@@ -349,7 +286,7 @@
       "chars": 27718,
       "ideas": 92,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "sedmikosteli_015.html",
       "next": "sedmikosteli_017.html",
       "toc": [
@@ -369,7 +306,7 @@
       "chars": 26109,
       "ideas": 88,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "sedmikosteli_016.html",
       "next": "sedmikosteli_018.html",
       "toc": [
@@ -389,7 +326,7 @@
       "chars": 22806,
       "ideas": 35,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "sedmikosteli_017.html",
       "next": "sedmikosteli_019.html",
       "toc": [
@@ -409,7 +346,7 @@
       "chars": 21202,
       "ideas": 60,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "sedmikosteli_018.html",
       "next": "sedmikosteli_020.html",
       "toc": [
@@ -429,7 +366,7 @@
       "chars": 22914,
       "ideas": 57,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "sedmikosteli_019.html",
       "next": "sedmikosteli_021.html",
       "toc": [
@@ -449,7 +386,7 @@
       "chars": 15185,
       "ideas": 34,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "sedmikosteli_020.html",
       "next": "sedmikosteli_022.html",
       "toc": [
@@ -469,7 +406,7 @@
       "chars": 14395,
       "ideas": 36,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "sedmikosteli_021.html",
       "next": "sedmikosteli_023.html",
       "toc": [
@@ -489,7 +426,7 @@
       "chars": 18010,
       "ideas": 60,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "sedmikosteli_022.html",
       "next": "sedmikosteli_024.html",
       "toc": [
@@ -509,7 +446,7 @@
       "chars": 16770,
       "ideas": 73,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "sedmikosteli_023.html",
       "next": "sedmikosteli_025.html",
       "toc": [
@@ -529,7 +466,7 @@
       "chars": 18166,
       "ideas": 46,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "sedmikosteli_024.html",
       "next": "sedmikosteli_026.html",
       "toc": [
@@ -549,7 +486,7 @@
       "chars": 15816,
       "ideas": 135,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "sedmikosteli_025.html",
       "next": "sedmikosteli_027.html",
       "toc": [
@@ -569,7 +506,7 @@
       "chars": 19694,
       "ideas": 43,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "sedmikosteli_026.html",
       "next": "sedmikosteli_028.html",
       "toc": [
@@ -589,7 +526,7 @@
       "chars": 30016,
       "ideas": 57,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "sedmikosteli_027.html",
       "next": "sedmikosteli_029.html",
       "toc": [
@@ -609,7 +546,7 @@
       "chars": 29911,
       "ideas": 131,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "sedmikosteli_028.html",
       "next": "sedmikosteli_030.html",
       "toc": [
@@ -629,7 +566,7 @@
       "chars": 9014,
       "ideas": 27,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "sedmikosteli_029.html",
       "next": "sedmikosteli_031.html",
       "toc": [
@@ -649,7 +586,7 @@
       "chars": 14301,
       "ideas": 31,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "sedmikosteli_030.html",
       "next": "sedmikosteli_032.html",
       "toc": [
@@ -669,9 +606,9 @@
       "chars": 169,
       "ideas": 4,
       "role": "chapter",
-      "order": 31,
+      "order": 28,
       "prev": "sedmikosteli_031.html",
-      "next": "sedmikosteli_033.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -683,20 +620,20 @@
       ]
     },
     {
-      "title": "Sedmikostelí",
-      "file": "sedmikosteli_033.html",
-      "words": 43,
-      "chars": 298,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 32,
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 126,
+      "chars": 836,
+      "ideas": 14,
+      "role": "colophon",
+      "order": null,
       "prev": "sedmikosteli_032.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -705,14 +642,14 @@
   ],
   "totals": {
     "all": {
-      "words": 82253,
-      "chars": 497328,
-      "ideas": 1533
+      "words": 82239,
+      "chars": 497232,
+      "ideas": 1524
     },
     "chapters": {
-      "words": 82247,
-      "chars": 497289,
-      "ideas": 1528
+      "words": 82108,
+      "chars": 496362,
+      "ideas": 1506
     }
   }
 }

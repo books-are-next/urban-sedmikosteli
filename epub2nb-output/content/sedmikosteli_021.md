@@ -12,11 +12,15 @@ jenž dal slib.
 
 — R. Weiner
 
+</section>
+
+<section>
+
 Cestou k hotelu jsem dvakrát zakopl na kočičích hlavách. Sodíkové výbojky veřejného osvětlení narůžověle poblikávaly a jen pomalu se osmělovaly rozzářit se doběla. Trasa tramvaje č. 3 byla odkloněna, musel jsem vystoupit už v Myslíkově ulici a uprostřed vozovky jsem upadl, dokonce se mi otevřel kufr a vychrlil do jízdní dráhy pár brožovaných knih. Až na rozbité zrcátko jsem věci nastrkal zpět a málem přišel o život, když se ze tmy vyřítila bílá drožka a s ječícím klaksonem se o mne otřela tvrdým bokem. Podíval jsem se za ní jako za nepřítelem, jehož zbrani jsem o vlásek unikl. Od řeky zářily do noci čtvercové výlohy Mánesa jako barevné obrazovky světélkujícího světa médií, ve žluté záři za sklem se pohybovaly stíny postav se sklenicemi v rukou, nějaká vernisáž, příležitost pro pozvané, obluzující němohra pro nezasvěcené stojící venku.
 
 Bylo to divné, ale žádné z oken hotelu Bouvines nesvítilo. V recepci jsem zahlédl aspoň zelenou záři lampičky a vedle ní hlavu skloněnou nad knihou. Zamířil jsem tam, a než jsem se stačil představit, recepční pozdravil a řekl, že o mně ví. Sáhl za sebe pro klíč, podal mi ho a připojil vysvětlení, že pan Gmünd sice musel v naléhavé záležitosti odejít, ale já ať se na to neohlížím a jdu se ubytovat. Vyčlenili mi modrý pokoj – ten si mám vzít.
 
-Zamkl prosklené dveře a pověsil na ně cedulku s anglickým nápisem back soon. Pak mi pomohl vynést kufry. Výtah nejezdil. Pan Gmünd svou váhou prý ztrhal všechna ocelová lana. Chvíli mi trvalo, než jsem jeho žert pochopil, a i pak jsem zachoval mlčení, protože urážel šlechetného člověka. Postavil zavazadla přede dveřmi a vyčkával. Když jsem ho ujistil, že už nic nepotřebuju, odporoučel se. Ta jeho prostořekost mi vlastně přišla vhod; kdybych mu nějaké spropitné dát chtěl, nevěděl bych si rady.
+Zamkl prosklené dveře a pověsil na ně cedulku s anglickým nápisem _back soon_. Pak mi pomohl vynést kufry. Výtah nejezdil. Pan Gmünd svou váhou prý ztrhal všechna ocelová lana. Chvíli mi trvalo, než jsem jeho žert pochopil, a i pak jsem zachoval mlčení, protože urážel šlechetného člověka. Postavil zavazadla přede dveřmi a vyčkával. Když jsem ho ujistil, že už nic nepotřebuju, odporoučel se. Ta jeho prostořekost mi vlastně přišla vhod; kdybych mu nějaké spropitné dát chtěl, nevěděl bych si rady.
 
 V Gmündově apartmá bylo příjemné, nikoli přílišné teplo, ze tmy v předsíni bděle pomrkávalo oranžové světélko termostatu. Po hmatu jsem našel vypínač a stiskl ho, na krémově natřených stěnách se měkce rozzářily tři dvouramenné elektrické svícny. Dotáhl jsem kufry pod dřevěný věšák a batoh položil na ně. Gmündova hůl a plášť byly pryč. Jen deštník opřený v koutě prozrazoval, že tu někdo bydlí. Předsíň byla uklizená, tlumeně zelený koberec nehyzdilo ani smítko prachu. Přišlo mi divné, že nikde nevidím žádné boty, boháč jako Gmünd jich musí mít spousty. Zřejmě byly všechny v třech mělkých skříních, stojících u stěny naproti. Až mě zasvrběly prsty, jak jsem se do nich zatoužil podívat, ale tuhle zvědavost se mi zdařilo překonat.
 

@@ -13,6 +13,10 @@ palác postavil bych zas.
 
 — S. T. Coleridge
 
+</section>
+
+<section>
+
 Do hotelu Bouvines v ulici Na Zderaze jsme šli pěšky, cesta nám trvala dvacet minut. Mezitím se úplně setmělo a začal foukat studený vítr. Provoz v ulicích zhoustl, na Karlově náměstí vznikla dopravní zácpa. Ve Václavské pasáži zdobili výlohy umělohmotnými stromečky a pestrobarevnými konfetami.
 
 Prunslík mnoho nemluvil, a to, co řekl, nebylo příliš zdvořilé, ani když se to týkalo Matyáše Gmünda. Nato mě vzal ve falešně důvěrném gestu pod paží a tlumeným hlasem řekl, že si Matyáše zas až tak neváží, ale koho chleba jíš, toho píseň zpívej, a to hlavně je-li nablízku. Jeho zaměstnavatel je neúspěšný architekt, dodal, snílek, co se zhlédl v umění středověku a neuznává žádné pozdější, je jím poblázněný. Přišel k pohádkovému dědictví, jež mu dopomáhá některé šílené plány realizovat.
@@ -59,7 +63,7 @@ Prunslík skopl z parapetu květináč s tuberózou a ten se roztřískl o p
 
 Nastalo dlouhé nesnesitelné ticho. Nejistě jsem se rozmluvil. Začal jsem u Netřeska. O trapných chvílích u něj doma jsem po­mlčel a namísto toho vyprávěl o svém nejoblíbenějším učiteli na boleslavském gymnáziu, o společné zálibě v historii a pochvalách, jichž se mi od něj dostalo, o svých slavných „nástěnkách s příběhem”. Ani si nepamatuji, kdy jsem ve vyprávění přešel od školy k rodičům a můj hlas začal zadrhávat, až jsem jej musel přinutit ke klidu, aby se nezajíkl docela. Chvilkové pauzy využil Prunslík, aby od okna, kde seděl a balancoval na koleně sklenku s brandy, vychrlil tuto větu:
 
-„Aber wo hatten Sie Ihr Herz verloren?“
+_„Aber wo hatten Sie Ihr Herz verloren?“_
 
 „Prosím?“ zeptal jsem se. „Ptáte se na mé srdce? Kde že jsem ho nechal – asi máte na mysli kraj –“
 

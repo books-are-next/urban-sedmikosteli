@@ -10,6 +10,10 @@ Odneste hodiny!
 
 — K. Kraus
 
+</section>
+
+<section>
+
 Býval jsem vzorem nehybnosti. Visel jsem v prostoru a vpisoval do něj svůj nehybný skok, rozrážel jsem tělem vzduch a pouštěl dolů na ty maličké svou němou hrůzu. Věděli, že jim neublížím, nemoha se vzdálit z místa, jež mi bylo určeno, a přece se s pláčem schovávali v máminých sukních. Bylo to mé skromné povyražení. Po letech mě za to stihl trest: přitáhli smrtonoši v železných kloboucích a vestách ušitých z kněžských ornátů, shodili mne do hlubiny a roztloukli na padrť, rozdrobili mě na střelivo pro své pojízdné praky zdobené rudým kalichem v černém poli, korouhvemi rabiátů a bratrovrahů. Velmi se báli mě a mých bratří, proto nás zničili. Jejich víra byla scestná. Jediné, co po mně zbylo, je vyprávění, a slyší je pouze ti schopní a ochotní naslouchat.
 
 Byl jsem součástí nosného a opěrného systému, měl jsem tu nejdůležitější funkci, odváděl jsem ze střechy vodu. Kdyby mě nebylo, protrhla by krovy a zaplavila kostel.
@@ -39,6 +43,10 @@ Nevím, co se událo uvnitř. Bouchání ustalo a hrbáč se vyřítil ven bez 
 Na otočném jeřábu, stojícím asi tucet sáhů od kostela, oběsili nazítří jistého šlechtice a s ním dva kameníky. To oni pracovali v našem kostele. Řemeslník pode mnou se nechal vytrhnout od práce a se sepjatýma rukama hleděl na smutné divadlo. Když bylo vykonáno, nahlas si povzdechl a já jsem v těžkém tichu dobře slyšel jeho slova: „Nešťastný pán, jenž tresce své nejvěrnější.“
 
 „Dál!“
+
+</section>
+
+<section>
 
 Skláněl se nade mnou a svíral mi svými medvědími tlapami ramena. Třásl se po celém těle, svaly v masitých pažích mu škubaly nervozitou, dýchal rychle a přerývaně a široká ústa se kroutila v šklebu nevídané úzkosti. Byl vztekem bez sebe, až jsem se děsil, že mě co nevidět rozmačká nebo mnou mrští o podlahu. Největší strach naháněly jeho oči: oproti oživlému a napjatému, rozčilením vibrujícímu tělu byly chladné a zkamenělé, dva hrozivé jadeity – zelené oblázky do praku zloby.
 
@@ -70,6 +78,10 @@ Proklouzl jsem mu pod rukama, doběhl k východu a opřel se do těžkých dv
 
 Jáma v Resslově ulici, otevřená rána v těle města, žalující podmračenému nebi, začala tou dobou budit pozornost. Kdo šel kolem, musel do ní aspoň nahlédnout nebo vhodit korunu, schválně kdy dopadne. Motoristé chtěli vědět, jak dlouho ještě bude pod Karlovým náměstím omezen provoz. Kdo podlezl první okruh zátarasů a odvážil se k druhému, ucítil silný sladkokyselý zápach stoupající z kráteru a otravující bezprostřední okolí. Ovoce se ve studené černé jámě kazilo pomalu, až po několika dnech propukl rozkladný proces naplno. Pach z jámy byl omamný, shnilé mango, pomeranče, citrony a broskve smíšené s tlejícími irisy, fréziemi a bramboříky způsobovaly kolemjdoucím nepříjemné chvilky.
 
+</section>
+
+<section>
+
 Všechny pokusy o vyproštění pohřbené avie selhaly, naopak hrozilo nebezpečí dalších podzemních sesuvů. Den po nehodě byl pod silnicí proveden geologický a archeologický průzkum, který zjistil, že mezi bývalým chrámem svatého Karla Boromejského s přilehlým klášterem a kostelem svatého Václava se rozkládají rozsáhlé dutiny, které se v užším pásmu táhnou podél náměstí až ke klášterním pozemkům emauzským. Ve večerních novinách, jež vycítily skandál a začaly se případem soustavně zabývat, jsem se dočetl, že o těchto kavernách, snad pradávných jeskyních, ve středověku přestavěných na sklepení, neměl novověk ani potuchy. Po plošném rušení kostelů a konventů v době josefínské upadly v zapomenutí.
 
 Přehoupl se týden a díra dál vypouštěla na Pražany své odporné výpary. Do jejích hlubin se na laně spouštěli speleologové a jejich zprávy z podzemí ohromily veřejnost i její zákonně zvolené zástupce. Pod zmíněnými třemi kostely byla objevena krypta dlouhá na dvě stě metrů a široká až třicet, o několika patrech a dobrých třech stovkách zazděných kobek. Průzkumníci nezjistili, co se v místnůstkách ponořených do věčné tmy skrývá, ale historici se spolu s archeology shodli na hypotéze rozsáhlého podzemního pohřebiště a unikátní kostnice, využívané mnichy z křižovnického kláštera při Svatém Petru a Pavlu a benediktinského kláštera Na Slovanech. Odborníci požádali o důkladný průzkum dutiny, neboť jak tušili, mohla se stát významným nalezištěm kosterních pozůstatků a památek značné historické hodnoty.
@@ -89,6 +101,10 @@ Pistole byla velká a těžká, v tlustém koženém pouzdře mě tlačila do�
 Vyzkoušel jsem vysílačku a ohlásil se Junkovi. I přes praskavé spojení jsem poznal, jak málo po chuti mu je naše nová spolupráce. Řekl, že ho jako vždycky informují až na poslední chvíli a že si v tomto případě týmovou práci zatím nedovede představit. Napadlo mě, že kdyby měly vysílačky sluchátko, Junek by s ním teď určitě praštil. Strčil jsem přístroj do kapsy a vyslovil tiché přání, aby ohluchl a oněměl.
 
 Události mě zdržely, na schůzku s Matyášem Gmündem jsem se nemohl dostavit včas, a přece jsem si protáhl cestu přes Albertov, takže mi místo deseti minut zabrala tři čtvrtě hodiny. Možná mě k tomu vedl vzdor, ale spíš jsem to udělal proto, že začalo sněžit. Třetí podzimní sníh.
+
+</section>
+
+<section>
 
 Za slupským kostelem jsem se dal Horskou a pak zabočil mezi jednotlivé budovy lékařské a přírodovědecké fakulty. Chvíli jsem tam bloudil a poslouchal vítr, který se sem hnal hned ze severu, hned ze západu a hlasitě tu vyváděl, jako by puristické stavby z počátku století byly vybaveny důmyslným zesilovačem jeho strašidelného sténání. Z chumelenice jsem se vynořil pod prosklenou rotundou Purkyňova ústavu, která tvarem připomíná modlitebnu, a v úleku se před ní zastavil. Pět velkých oken v prvním a deset okének v druhém patře ostře kontrastovalo s ledovým plédem pokrývajícím kuželovitou střechu, parapety a chodník. Odspoda až nahoru halilo zevnitř okna tmavé sukno, rotunda tu stála jako černý maják, co nikdy nesvítí – znamení zaslepení, s jakým se troufalá věda pokouší proniknout do tajů bytí. Neměl jsem tušení, jaké mše se za mrtvými okny slouží, ale s ohavnou vzpomínkou na jiný svatostan vědeckých božstev, jehož modravá omítka se ztrácela mezi vířícími vločkami, jsem zrychlil krok a zamířil k albertovským schodům.
 

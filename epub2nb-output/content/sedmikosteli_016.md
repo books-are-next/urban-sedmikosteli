@@ -10,6 +10,10 @@ vzhůru ke hřbitovu.
 
 — O. Mikulášek
 
+</section>
+
+<section>
+
 Následující týden začal zle.
 
 Přesně v sedm zazvonil budík, starý nepřítel. Současně zadrnčel telefon. Takové ranní burcování už jsem se naučil vnímat coby předzvěst neštěstí. Jako v bytě Pendelmanové, jako v chrámu Páně na Větrově. Když jsem rozespalý zvedl v předsíni telefon, vykoukla z ložnice hlava paní Frýdové. Ze sluchátka se ozval ženský hlas. Volající se nepředstavila, ale poznal jsem Rozetu. Říkala něco o Vyšehradě, mám tam přijet. Ke Kongresovému centru, okamžitě. Tam se všechno dovím. A zavěsila.
@@ -41,6 +45,10 @@ Skutečně. Byl jsem si jist, že Řehoř s Barnabášem jsou buď archi­tekti
 Než se vůz rozjel, Rozeta mi s ostražitým pohledem, jímž se ubezpečila, že nás nikdo neslyší, vyřídila vzkaz od Gmünda: ve dvě hodiny mě bude čekat před kostelem Zvěstování Panny Marie. Řekl jsem, že se tam tedy uvidíme všichni tři. Přikývla a pak, jako by ji něco dodatečně napadlo, s úsměvem sáhla do kapsy a vytáhla svazek klíčů. Podala mi je okýnkem. Jsou od kostela, vysvětlila mi, včera si je vyzvedla na církevní správě. A pak řekla něco velice překvapivého: máme dnes jít s Gmündem sami, ona za námi přijde později. To se nesmí, namítl jsem a uvědomil si směšnost té situace: civilista připomíná zákon policistovi. Nesmí? opakovala suše; nesmí se to hlavně dozvědět Olejář – za žádných okolností. Zeptal jsem se, co má odpoledne tak naléhavého, že nemůže s námi – bude přece ve službě. Odsekla, že mi do toho nic není. Znovu nastartovala a odjela.
 
 Na smluveném místě u kostela Zvěstování Panny Marie na Slupi – nebo též na Trávníčku – jsem byl před druhou. Prošel jsem se po Albertově a mhouřil oči před nízkým zlatým sluncem, jež se po dvou týdnech plískanic vyhouplo nad Vyšehrad jako pozdě, ale přece dozrálý delicius. Potkal jsem skupinku studentů z blízké lékařské fakulty, jinak zde bylo ticho a skoro liduprázdno. Z ulice Na Slupi ke mně doléhalo zvonění tramvaje, na vzdáleném výtoňském viaduktu slabě rachotil vlak.
+
+</section>
+
+<section>
 
 Vzhlédl jsem k věži kostela, kam jsem před lety tak často chodil a který, jak se mi už tehdy zdálo, by měl sloužit za svatostánek spisovatelům, neboť jeho osmiboká zvonice s vizáží arabského minaretu a hrotem černým jako tuha připomíná ostře ořezanou tužku. Když ji ve čtrnáctém století stavěli, tužky se ještě nepo­užívaly, avšak stavitelovo gesto pokory před pánem nad talenty se ve tvaru celé budovy nedalo přehlédnout. A tentokrát jako by se špice věže vypínala ještě výš než jindy, ale nebyl jsem s to odhalit příčinu toho zdání.
 
