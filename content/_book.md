@@ -43,7 +43,7 @@ readingOrder:
   - sedmikosteli_030.html
   - sedmikosteli_031.html
   - sedmikosteli_032.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
