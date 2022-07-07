@@ -60,7 +60,7 @@
             "filename": "sedmikosteli_003.md",
             "xhtml": "sedmikosteli_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": true,
             "listType": "plain",
             "children": []
@@ -69,7 +69,7 @@
             "filename": "sedmikosteli_004.md",
             "xhtml": "sedmikosteli_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": true,
             "listType": "plain",
             "children": []
@@ -361,7 +361,7 @@
             "filename": "sedmikosteli_033.md",
             "xhtml": "sedmikosteli_033.xhtml",
             "id": 32,
-            "role": "colophon",
+            "role": "about",
             "inToc": true,
             "listType": "plain",
             "children": []
